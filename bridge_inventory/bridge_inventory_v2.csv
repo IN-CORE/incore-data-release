@@ -1,0 +1,12 @@
+Field Name,Type,Length,Precision
+guid,string,36,
+id,int,10,
+class,string,254,
+spans,integer,10,
+str_lng,double,20,5
+dockwidth,double,20,5
+FID_road,string,254,
+name,string,254,
+span_mass,double,20,5
+clearance,double,20?,5
+g_elev,double,20,5
