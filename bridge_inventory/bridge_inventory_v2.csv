@@ -8,5 +8,5 @@ dockwidth,double,20,5
 FID_road,string,254,
 name,string,254,
 span_mass,double,20,5
-clearance,double,20?,5
+clearance,double,20,5
 g_elev,double,20,5
