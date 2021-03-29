@@ -23,9 +23,6 @@ hs_err_pid*
 # VSCODE
 .vscode
 
-# EGG info
-pyincore_viz.egg-info
-
 # IDEA - generated artifacts
 **/out/
 
@@ -50,7 +47,6 @@ original/
 .user
 
 # possible output file
-*.csv
 *.jpg
 *.jpeg
 *.png
