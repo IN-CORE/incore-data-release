@@ -7,4 +7,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 ### Added 
-- Created bridge and building inventory [INCORE1-1088](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1088)
+- Galveston Island Bridge Inventory V2. [INCORE1-1085](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1085)
+- Created bridge and building inventory. [INCORE1-1088](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1088)
