@@ -7,7 +7,7 @@
 2. NCSA curated the file and removed 8 duplicates with disjoint geo data. These were removed and shape file was created. This was a base dataset for Lisa Wang's 
    **joplin_bldg_inventory_v6_LW.zip** [shape file](joplin_bldg_inventory_v6_LW.zip) reffered to as an "old" file. The dataset id on Dataservice was `5dbc8478b9219c06dd242c0d` and has not been changed with subsequent dataset changes.
    
-3. At some point there was a revision of the shape file above and that is the current (as of March 21, 2021). The changes included:
+3. At some point there was a revision of the shape file above and that is the current (as of March 21, 2021) version. The changes included:
     
 - renaming `archtype` attribute to `archetype`
 - strict type definition of attributes; strings, integers, doubles of certain length. For details see [Confluence page with types](https://opensource.ncsa.illinois.edu/confluence/display/INCORE1/Building+Inventory+Datatype+Schema).
