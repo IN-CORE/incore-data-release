@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [unreleased]
 ### Added 
-- Galveston Island Bridge Inventory V2. [INCORE1-1085](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1085)
-- Created bridge and building inventory. [INCORE1-1088](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1088)
 - Seaside building inventory history. [INCORE1-1093](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1093)
+- Joplin history [INCORE1-1092](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1092)
+- Created bridge and building inventory [INCORE1-1088](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1088)
+- Galveston Island Bridge Inventory V2. [INCORE1-1085](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1085)
+
