@@ -11,6 +11,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Joplin history [INCORE1-1092](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1092)
 - Created bridge and building inventory [INCORE1-1088](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1088)
 - Galveston Island Bridge Inventory V2. [INCORE1-1085](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1085)
-
-### Updated
 - Building inventory catalog [INCORE1-1084](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1084)
