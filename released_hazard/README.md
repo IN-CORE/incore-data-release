@@ -1,11 +1,11 @@
 # Released Hazard
 ## Flood
-| Name | Hazard Id | Relase Date | Hazard Type |
+| Name | Hazard Id | Release Date | Hazard Type |
 | ------- | ---------- | ---------- | ---------- |
 | Lumberton deterministic flood | 5f5916456f515f55ee30a5f0 | Sep 04, 2020 | Flood |
 
 ## Hurricane
-| Name | Hazard Id | Relase Date | Hazard Type |
+| Name | Hazard Id | Release Date | Hazard Type |
 | ------- | ---------- | ---------- | ---------- |
 | Hurricane Ike Hindcast | 5fa5a228b6429615aeea4410 | Feb 26, 2021 | Hurricane wave/surge|
 | Hurricane Ike 2% Annual Exceedance Probability (50-yr return period) | 5fa5a83c7e5cdf51ebf1adae | Feb 26, 2021 | Hurricane wave/surge|
