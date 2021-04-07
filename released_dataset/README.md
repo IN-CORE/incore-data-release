@@ -1,6 +1,6 @@
 # Released Dataset
 
-We provide a [Release announcement](https://docs.google.com/document/d/1goPN2tWmOIw1bc7RvP83kdkz38kKoLah1_khPrCl0SA/edit?skip_itp2_check=true#heading=h.zdf4d36jk96p) 
+We provide a [Release announcement](https://docs.google.com/document/d/1goPN2tWmOIw1bc7RvP83kdkz38kKoLah1_khPrCl0SA) 
 to CoE reserachers as of IN-CORE version 1.5.0. with dataset ids and updates.
 
 ## Joplin
