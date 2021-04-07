@@ -4,4 +4,4 @@ id,int,10
 class,string,254
 spans,string,20
 str_lng,string,20
-dockwidth,string,20
+dckwidth,string,20

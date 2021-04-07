@@ -63,6 +63,7 @@ to CoE reserachers as of IN-CORE version 1.5.0. with dataset ids and updates.
 | Housing Unit Inventory | 5fc6ab1cd2066956f49e7a03 | Feb 26, 2021 | incore:housingUnitInventory | |
 | Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:blockGroupData | |
 | Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:valuLossParam | |
+| Bridge on Road Link| 606dd68fbe94522d1cc034b2 | April 7, 2021 | incore:bridgeOnRoadLink | |
 
 ## Lumberton
 ### Building inventory

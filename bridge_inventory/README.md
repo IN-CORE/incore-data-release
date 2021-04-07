@@ -9,7 +9,6 @@ Current ongoing information is in https://opensource.ncsa.illinois.edu/confluenc
 <li>spans: Number of Spans/li>
 <li>str_lng: Structure Length</li>
 <li>dckwidth: Deck Width</li>
-<li>FID_road: Road ids that bridges are located at</li>
 <li>name: Name of the Bridge</li>
 <li>span_mass (SpanMass): Span unit mass (ton/m) coming from bridge inventory</li>
 <li>clearence  (Clearance): Height clearance of bridge deck (m) coming from bridge inventory</li>
