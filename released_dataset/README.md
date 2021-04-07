@@ -1,8 +1,5 @@
 # Released Dataset
 
-We provide a [Release announcement](https://docs.google.com/document/d/1goPN2tWmOIw1bc7RvP83kdkz38kKoLah1_khPrCl0SA) 
-to CoE reserachers as of IN-CORE version 1.5.0. with dataset ids and updates.
-
 ## Joplin
 ### Building inventory
 | Name | Dataset ID | Date Created | Data Type | Note |

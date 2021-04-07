@@ -19,6 +19,7 @@
 | Lumberton building (Flood) F13 Fragility | 602f393381bd2c09ad8efe40 | Feb 28, 2021 | Flood | Building |
 | Lumberton building (Flood) F14 Fragility | 602f397b81bd2c09ad8efe61 | Feb 28, 2021 | Flood | Building |
 | Lumberton building (Flood) F15 Fragility | 602f39c781bd2c09ad8efe82 | Feb 28, 2021 | Flood | Building |
+| Galveston bridge fragility specific for hurricane surge | 606221fe618178207f6608a1  | April 21, 2021 | Hurricane | Bridge |
 
 ## Mapping
 | Name | Hazard Id | Release Date | Hazard Type | Inventory Type |
@@ -26,4 +27,4 @@
 | Galveston Roadway Damage subjected to Hurricane Inundation Mapping | 5f15cd3d3efd0e4ebccfd5ab | July 31, 2020 | Hurricane | Roadway |
 | Galveston Hurricane Building Fragility Mapping | 602c381a1d85547cdc9f0675 | Feb 28, 2021 | Hurricane | Building |
 | Lumberton flood fragilities for 15 archetype building | 602f3cf981bd2c09ad8f4f9d | Feb 28, 2021 | Flood | Building |
-
+| Galveston Hurricane Bridge Fragility Mapping | 6062254b618178207f66226c | April 21, 2021 | Hurricane | Bridge |
