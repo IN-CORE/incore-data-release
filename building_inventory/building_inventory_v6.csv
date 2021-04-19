@@ -31,8 +31,10 @@ NSTRD_CST,drift sensitive component of replacement cost,double
 DGN_LVL,design level for the building as per HAZUS MR-3 specifications,string
 OCC_TYP2,detailed HAZUS occupancy category for the building,string
 TRACT_ID,census tract identifier,string
+,,
 Shape file needs,,
 LAT,Latitude of Parcel Centroid in Geographic Coordinate System,double
 LON,Longitude of Parcel Centroid in Geographic Coordinate System,double
+,,
 CSV file needs,,
 GEOMETRY,Latitude and Lingitude of Parcel Centroid in Geographic Coordinate System (EPSG 4326),double
