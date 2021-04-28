@@ -87,7 +87,7 @@ datasets because they are used in active analyses
 - incore:SeasideCGEsims
 - incore:substationsDamageMcSamples
 - incore:tornadoEPNDamageVer1
-- incore:tornadowindfield
+- incore:tornadoWindfield
 - incore:transportationRecovery
 - incore:transportationRepairSchedule
 - incore:unrepairedBridge
@@ -219,7 +219,6 @@ analyses above should give all types
 - incore:probabilisticHurricaneRaster
 - incore:probabilisticTsunamiRaster
 - incore:roads
-- incore:tornadoWindfield
 - incore:waterNetworkDemand
 - incore:waterNetworkEpanetInp
 - incore:waternetwork
@@ -431,7 +430,6 @@ All data types
 - incore:SeasideCGEsims
 - incore:substationsDamageMcSamples
 - incore:TornadoEpnDamageVer1
-- incore:tornadowindfield
 - incore:tornadoWindfield
 - incore:transportationRecovery
 - incore:transportationRepairSchedule

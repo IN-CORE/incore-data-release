@@ -87,7 +87,7 @@ incore:SeasideCGEsim
 incore:SeasideCGEsims
 incore:substationsDamageMcSamples
 incore:tornadoEPNDamageVer1
-incore:tornadowindfield
+incore:tornadoWindfield
 incore:transportationRecovery
 incore:transportationRepairSchedule
 incore:unrepairedBridge
@@ -219,7 +219,6 @@ incore:probabilisticFloodRaster
 incore:probabilisticHurricaneRaster
 incore:probabilisticTsunamiRaster
 incore:roads
-incore:tornadoWindfield
 incore:waterNetworkDemand
 incore:waterNetworkEpanetInp
 incore:waternetwork
@@ -430,7 +429,6 @@ incore:SeasideCGEsim
 incore:SeasideCGEsims
 incore:substationsDamageMcSamples
 incore:TornadoEpnDamageVer1
-incore:tornadowindfield
 incore:tornadoWindfield
 incore:transportationRecovery
 incore:transportationRepairSchedule
