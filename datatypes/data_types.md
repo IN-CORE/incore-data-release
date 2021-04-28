@@ -205,6 +205,7 @@ analyses above should give all types
 - incore:consumerPriceIndexUS
 - incore:deterministicFloodRaster
 - incore:deterministicHurricaneRaster
+- incore:deterministicTsunamiRaster
 - incore:EPNRecoveryVer1
 - incore:hurricaneGridSnapshot
 - incore:JoplinCGE
@@ -214,8 +215,11 @@ analyses above should give all types
 - incore:network
 - incore:pipeZoning
 - incore:powerLineTopo
+- incore:probabilisticFloodRaster
+- incore:probabilisticHurricaneRaster
 - incore:probabilisticTsunamiRaster
 - incore:roads
+- incore:tornadoWindfield
 - incore:waterNetworkDemand
 - incore:waterNetworkEpanetInp
 - incore:waternetwork
@@ -365,6 +369,7 @@ All data types
 - incore:consumerPriceIndexUS
 - incore:deterministicFloodRaster
 - incore:deterministicHurricaneRaster
+- incore:deterministicTsunamiRaster
 - incore:dfr3MappingSet
 - incore:distanceToShore
 - incore:Employment
@@ -409,6 +414,8 @@ All data types
 - incore:portfolioRecovery
 - incore:portfolioUtilityAvailability
 - incore:powerLineTopo
+- incore:probabilisticFloodRaster
+- incore:probabilisticHurricaneRaster
 - incore:probabilisticTsunamiRaster
 - incore:roadFailure
 - incore:roads
@@ -634,6 +641,25 @@ are not included in Data service
 - incore:waternetwork
 - incore:waternodeBuildingRelations
 - Unknown
+
+Dataset-based hazard types
+==========================
+
+**Note**: Dataset-based hazard has pre-determined dataset types. Those hazard datasets do exist in the data services, 
+they can be called byt the endpoint. But we made a decision last release that to hide them in the frontend. 
+Since we do not want user to accidentally delete those (causing the hazard to malfunction)
+
+- ergo:deterministicEarthquakeRaster
+- ergo:hazardRaster
+- ergo:probabilisticEarthquakeRaster
+- incore:deterministicFloodRaster
+- incore:deterministicHurricaneRaster
+- incore:deterministicTsunamiRaster
+- incore:hurricaneGridSnapshot
+- incore:probabilisticFloodRaster
+- incore:probabilisticHurricaneRaster
+- incore:probabilisticTsunamiRaster
+- incore:tornadoWindfield
 
 
 
