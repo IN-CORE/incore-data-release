@@ -643,9 +643,9 @@ are not included in Data service
 Dataset-based hazard types
 ==========================
 
-**Note**: Dataset-based hazard has pre-determined dataset types. Those hazard datasets do exist in the data services, 
-they can be called byt the endpoint. But we made a decision last release that to hide them in the frontend. 
-Since we do not want user to accidentally delete those (causing the hazard to malfunction)
+**Note**: Dataset-based hazard has pre-determined dataset types. Those hazard datasets do exist in the data service, 
+they can be called byt the endpoint. We made a decision to hide them in the frontend since we do not want user 
+to accidentally delete them (causing the hazard to malfunction).
 
 - ergo:deterministicEarthquakeRaster
 - ergo:hazardRaster
