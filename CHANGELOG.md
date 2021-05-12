@@ -8,8 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [unreleased]
 ### Added
 - Building inventory v7 schema. [INCORE1-1124](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1124) 
-- List of datatypesa. [INCORE1-1134](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1134) 
-
+- List of datatypes. [INCORE1-1134](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1134) 
+- Address point inventory. [INCORE1-1125](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1125)
 ## [2.1.0] - 2021-04-14
 ### Added
 - Seaside building inventory history. [INCORE1-1093](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1093)
