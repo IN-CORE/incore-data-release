@@ -71,3 +71,14 @@
 | Name | Dataset ID | Date Created | Data Type | Note |
 | ------------------------------------ | ------------------------ | ------------ | ------------ | --- |
 | Building Inventory| 6036c2a9e379f22e1658d451  | Feb 26, 2021 | ergo:buildingInventoryVer7 | |
+
+## MMSA
+### Bridge inventory 
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
+| Highway_Bridges_Memphis_V3 | 60e86d6b544e944c3ce622d2 | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_BNSF_Memphis_V3 | 60e86e6f60b3f41243fb9df3 | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_CN_Memphis_V3 | 60e86e91544e944c3ce62376 | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_CSXT_Memphis_V3 | 60e86eab60b3f41243fb9e44 | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_NS_Memphis_V3 | 60e86ed1544e944c3ce6241a | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_UP_Memphis_V3 | 60e86ee960b3f41243fb9ee8 | July 31, 2021 | ergo:bridgesVer3 | |
