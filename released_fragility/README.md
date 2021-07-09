@@ -20,6 +20,69 @@
 | Lumberton building (Flood) F14 Fragility | 602f397b81bd2c09ad8efe61 | Feb 28, 2021 | Flood | Building |
 | Lumberton building (Flood) F15 Fragility | 602f39c781bd2c09ad8efe82 | Feb 28, 2021 | Flood | Building |
 | Galveston bridge fragility specific for hurricane surge | 606221fe618178207f6608a1  | April 21, 2021 | Hurricane | Bridge |
+| MMSA Railway Bridge MSSS TPG EBL | 60da0e716fb1bc236b54438b | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel FBL | 60da0e7352e10319df6c1c6f | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS TPG EBT | 60da0e7447290977c884ef3c | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel FBT | 60da0e75a0c8a24d7ed96d12 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS TPG ABA | 60da0e756fb1bc236b54463a | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel COL | 60da0e7652e10319df6c1cbe | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS TPG ABT | 60da0e7747290977c884ef8b | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel ABP | 60da0e78a0c8a24d7ed96fc1 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel EBT | 60da0e786fb1bc236b5448e9 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel EBL | 60da0e7952e10319df6c1d0d | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS TPG ABP | 60da0e7a47290977c884efda | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS TPG COL | 60da0e7aa0c8a24d7ed97270 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel ABA | 60da0e7b6fb1bc236b544b98 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS TPG FBL | TBD | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel ATB | TBD | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Steel Fbt | 60da0e9852e10319df6c1d5c | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Concrete Abt | 60da0e9947290977c884f029 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Concrete Aba | 60da0e9aa0c8a24d7ed973ef | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Steel Aba | 60da0e9b6fb1bc236b54500f | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Concrete Abt | 60da0e9c52e10319df6c1dab | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Steel Abt | 60da0e9d47290977c884f078 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Concrete Aba | 60da0e9da0c8a24d7ed9743e | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Steel Aba | 60da0e9e6fb1bc236b54551e | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Steel Abt | 60da0e9e52e10319df6c1dfa | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Steel Fbl | 60da0e9f47290977c884f0c7 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Concrete Aba | 60da0ea0a0c8a24d7ed9748d | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Concrete Abt | 60da0ea16fb1bc236b545a2d | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Steel Ebt | 60da0ea252e10319df6c1e49 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Concrete Ebt | 60da0ea247290977c884f116 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Concrete Ebt | 60da0ea3a0c8a24d7ed974dc | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Concrete Ebl | 60da0ea46fb1bc236b545f3c | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Steel Ebl | 60da0ea452e10319df6c1e98 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Steel Ebl | 60da0ea547290977c884f165 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Concrete Ebl | 60da0ea6a0c8a24d7ed9752b | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Steel Col | 60da0ea66fb1bc236b54644b | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Concrete Ebl | 60da0ea752e10319df6c1ee7 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Concrete Ebt | 60da0ea847290977c884f1b4 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Concrete Col | 60da0ea9a0c8a24d7ed9757a | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Concrete Abp | 60da0ea96fb1bc236b54695a | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Steel Col | 60da0eaa52e10319df6c1f36 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Concrete Col | 60da0eaa47290977c884f203 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Steel Col | 60da0eaba0c8a24d7ed975c9 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Steel Ebl | 60da0eac6fb1bc236b546e69 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Concrete Abp | 60da0ead52e10319df6c1f85 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Concrete Col | 60da0eae47290977c884f252 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Steel Abp | 60da0eaea0c8a24d7ed97618 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Steel Abp | 60da0eaf47290977c884f2a1 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Concrete Abp | 60da0eb0a0c8a24d7ed97667 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Steel Ebt | 60da0eb16fb1bc236b5475d9 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Concrete Fbl | 60da0eb252e10319df6c2b79 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Steel Fbl | 60da0eb347290977c884f2f0 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Steel Fbl | 60da0eb4a0c8a24d7ed976b6 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Steel Abt | 60da0eb66fb1bc236b547ae8 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Concrete Fbt | 60da0eb752e10319df6c2d80 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Concrete Fbl | 60da0eb747290977c884f33f | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Steel Aba | 60da0eb8a0c8a24d7ed97705 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Concrete Fbt | 60da0eba6fb1bc236b547ff7 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Steel Fbt | 60da0eba52e10319df6c2dcf | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSSS Steel Fbt | 60da0ebb47290977c884f38e | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Concrete Fbl | 60da0ebca0c8a24d7ed97754 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Concrete Fbt | 60da0ebd6fb1bc236b548506 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge SS Steel Ebt | 60e7174da0c8a24d7edfee74 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Bridge MSC Steel Abp | 60e716c747290977c88bf6cc | July 31, 2021 | Earthquake | Bridge |
 
 ## Mapping
 | Name | Hazard Id | Release Date | Hazard Type | Inventory Type |

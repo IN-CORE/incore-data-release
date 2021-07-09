@@ -2,7 +2,7 @@ All data types
 ==============
 
 All types from the Analyses, Data service and Hazard service.
-There are total of 212 data types.
+There are total of 213 data types.
 
 - ergo:annualGrossSalesOrProduction
 - ergo:anonymousLineString
@@ -16,6 +16,7 @@ There are total of 212 data types.
 - ergo:bridgeRetrofitCostEstimationResult
 - ergo:bridges
 - ergo:bridgesVer2
+- ergo:bridgesVer3
 - ergo:buildingASDamageRatios
 - ergo:buildingContentDamageRatios
 - ergo:buildingDamage

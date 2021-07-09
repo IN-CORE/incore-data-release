@@ -2,7 +2,7 @@ Data types
 ==========
 
 Data types in **Analyses**, **Hazard datasets** and **Other**
-should give all types. There are total of 212 datatypes.
+should give all types. There are total of 213 datatypes.
 
 Analyses
 ========
@@ -111,6 +111,7 @@ Other datatypes
 - ergo:bridgeRetrofitCost
 - ergo:bridgeRetrofitCostEstimationResult
 - ergo:bridgesVer2
+- ergo:bridgesVer3
 - ergo:buildingDisruptionCost
 - ergo:buildingEconomicLossVer4
 - ergo:buildingFireIgnitionOccupancy
