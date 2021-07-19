@@ -20,6 +20,7 @@
 | Lumberton building (Flood) F14 Fragility | 602f397b81bd2c09ad8efe61 | Feb 28, 2021 | Flood | Building |
 | Lumberton building (Flood) F15 Fragility | 602f39c781bd2c09ad8efe82 | Feb 28, 2021 | Flood | Building |
 | Galveston bridge fragility specific for hurricane surge | 606221fe618178207f6608a1  | April 21, 2021 | Hurricane | Bridge |
+| MMSA Railway Bridge MSSS TPG FBT | 60f59dd1a0c8a24d7eec7c7f | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS TPG EBL | 60da0e716fb1bc236b54438b | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS Steel FBL | 60da0e7352e10319df6c1c6f | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS TPG EBT | 60da0e7447290977c884ef3c | July 31, 2021 | Earthquake | Bridge |
@@ -34,7 +35,7 @@
 | MMSA Railway Bridge MSSS TPG COL | 60da0e7aa0c8a24d7ed97270 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS Steel ABA | 60da0e7b6fb1bc236b544b98 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS TPG FBL | TBD | July 31, 2021 | Earthquake | Bridge |
-| MMSA Railway Bridge MSSS Steel ATB | TBD | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS Steel ATB | 60f59c276fb1bc236b6775d5 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge MSC Steel Fbt | 60da0e9852e10319df6c1d5c | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge SS Concrete Abt | 60da0e9947290977c884f029 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge SS Concrete Aba | 60da0e9aa0c8a24d7ed973ef | July 31, 2021 | Earthquake | Bridge |
