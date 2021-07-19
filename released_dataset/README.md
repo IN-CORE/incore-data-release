@@ -61,6 +61,9 @@
 | Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:blockGroupData | |
 | Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:valuLossParam | |
 | Bridge on Road Link| 606dd68fbe94522d1cc034b2 | April 7, 2021 | incore:bridgeOnRoadLink | |
+| Population dislocation inventory | 60f5ea5d544e944c3cec66dd | July 19, 2021 | incore:popDislocation ||
+| Initial stage probability | 60f5e918544e944c3cec668b | July 19, 2021 | incore:houseRecInitialStageProbability ||
+| Transition probability matrix HHRS | 60f5e2ae544e944c3cec0794 | July 19, 2021 | incore:houseRecTransitionProbMatrix ||
 
 ## Lumberton
 ### Building inventory
