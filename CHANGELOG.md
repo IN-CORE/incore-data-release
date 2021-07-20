@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Building inventory v7 schema. [INCORE1-1124](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1124) 
 - List of datatypes. [INCORE1-1134](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1134) 
 - Address point inventory. [INCORE1-1125](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1125)
+- Galveston household-level housing recovery datasets. [INCORE1-1301](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1301)
 
 ## [2.1.0] - 2021-04-14
 ### Added
