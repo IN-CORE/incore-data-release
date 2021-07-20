@@ -34,7 +34,7 @@
 | MMSA Railway Bridge MSSS TPG ABP | 60da0e7a47290977c884efda | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS TPG COL | 60da0e7aa0c8a24d7ed97270 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS Steel ABA | 60da0e7b6fb1bc236b544b98 | July 31, 2021 | Earthquake | Bridge |
-| MMSA Railway Bridge MSSS TPG FBL | TBD | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Bridge MSSS TPG FBL | 60f6e17e6fb1bc236b677a6a | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS Steel ATB | 60f59c276fb1bc236b6775d5 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge MSC Steel Fbt | 60da0e9852e10319df6c1d5c | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge SS Concrete Abt | 60da0e9947290977c884f029 | July 31, 2021 | Earthquake | Bridge |
