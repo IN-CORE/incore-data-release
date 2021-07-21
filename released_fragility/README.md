@@ -92,3 +92,19 @@
 | Galveston Hurricane Building Fragility Mapping | 602c381a1d85547cdc9f0675 | Feb 28, 2021 | Hurricane | Building |
 | Lumberton flood fragilities for 15 archetype building | 602f3cf981bd2c09ad8f4f9d | Feb 28, 2021 | Flood | Building |
 | Galveston Hurricane Bridge Fragility Mapping | 6062254b618178207f66226c | April 21, 2021 | Hurricane | Bridge |
+| MMSA Railway ABT Mapping | 60f89fc947290977c8994215 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway FBL Mapping | 60f89fcba0c8a24d7eedf6a0 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway FBT Mapping | 60f89fcd6fb1bc236b68d049 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway ABP Mapping | 60f89fce52e10319df8086c4 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway Col Mapping | 60f89fd047290977c8994302 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway EBL Mapping | 60f89fd2a0c8a24d7eedf6f1 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway EBT Mapping | 60f89fd36fb1bc236b68d3a6 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway ABA Mapping | 60f89fd452e10319df8088e9 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway ABA Mapping | 60f89fd647290977c8994353 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway EBL Mapping | 60f89fd7a0c8a24d7eedf916 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway EBT Mapping | 60f89fd96fb1bc236b68d3f7 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Railway ABP Mapping | 60f89fda52e10319df808a72 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway Col Mapping | 60f89fdc47290977c8994578 | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway FBL Mapping | 60f89fdda0c8a24d7eedfa9f | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway ABT Mapping | 60f89fdf6fb1bc236b68d61c | July 31, 2021 | Earthquake | Bridge |
+| MMSA Highway FBT Mapping | 60f89fdf52e10319df808b5f | July 31, 2021 | Earthquake | Bridge |
