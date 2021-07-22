@@ -51,12 +51,16 @@
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
 | Island Bridge Inventory V2 | 60620320be94522d1cb9f7f0 | April 21, 2021 | ergo:bridgesVer2 | |
 
+### Address point inventory
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- |
+| Address Point Inventory | 60620320be94522d1cb9f7f0 | Feb 26, 2021 | incore:addressPoints | |
+
 ### Other dataset
 | Name | Dataset ID | Date Created | Data Type | Note |
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ---- |
 | Island Roadway inventory | 5f15d04f33b2700c11fc9c4e | Jul 31, 2020 | ergo:roadLinkTopo | |
 | Island Road Distance to Shore Table | 5f189ada53587c306ed478da | Jul 31, 2020 | incore:distanceToShore | |
-| Address Point Inventory | 60620320be94522d1cb9f7f0 | Feb 26, 2021 | incore:addressPoints | |
 | Housing Unit Inventory | 5fc6ab1cd2066956f49e7a03 | Feb 26, 2021 | incore:housingUnitInventory | |
 | Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:blockGroupData | |
 | Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:valuLossParam | |
@@ -70,3 +74,14 @@
 | Name | Dataset ID | Date Created | Data Type | Note |
 | ------------------------------------ | ------------------------ | ------------ | ------------ | --- |
 | Building Inventory| 6036c2a9e379f22e1658d451  | Feb 26, 2021 | ergo:buildingInventoryVer7 | |
+
+## MMSA
+### Bridge inventory 
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
+| Highway_Bridges_Memphis_V3 | 60e86d6b544e944c3ce622d2 | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_BNSF_Memphis_V3 | 60e86e6f60b3f41243fb9df3 | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_CN_Memphis_V3 | 60e86e91544e944c3ce62376 | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_CSXT_Memphis_V3 | 60e86eab60b3f41243fb9e44 | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_NS_Memphis_V3 | 60e86ed1544e944c3ce6241a | July 31, 2021 | ergo:bridgesVer3 | |
+| Railway_Bridges_UP_Memphis_V3 | 60e86ee960b3f41243fb9ee8 | July 31, 2021 | ergo:bridgesVer3 | |

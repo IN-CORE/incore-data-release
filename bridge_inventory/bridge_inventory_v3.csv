@@ -1,0 +1,27 @@
+Field Name,Type,Length,Precision
+guid,string,36,
+class,string,254,
+spans,integer,10,
+str_lng,double,20,5
+dckwidth,double,20,5
+name,string,254,
+span_mass,double,20,5
+clearance,double,20,5
+g_elev,double,20,5
+fc,double,20,5
+fy,double,20,5
+EBL,double,20,5
+EBT,double,20,5
+FBL,double,20,5
+FBT,double,20,5
+pass_stf,double,20,5
+act_stf,double,20,5
+rot_stf,double,20,5
+trns_stf,double,20,5
+damp,double,20,5
+abt_gp_L1,double,20,5
+abt_gp_L2,double,20,5
+hng_gp_L1,double,20,5
+hng_gp_L2,double,20,5
+span_lng,double,20,5
+col_thck,double,20,5

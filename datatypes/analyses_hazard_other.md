@@ -1,0 +1,237 @@
+Data types
+==========
+
+Data types in **Analyses**, **Hazard datasets** and **Other**
+should give all types. There are total of 213 datatypes.
+
+Analyses
+========
+
+**NOTE**: These are the most important types of input and output 
+datasets because they are used in active analyses
+
+- ergo:bridgeDamage
+- ergo:bridgeDamageRatios
+- ergo:bridges
+- ergo:buildingASDamageRatios
+- ergo:buildingContentDamageRatios
+- ergo:buildingDamage
+- ergo:buildingDamageRatios
+- ergo:buildingDamageVer4
+- ergo:buildingDamageVer5
+- ergo:buildingDSDamageRatios
+- ergo:buildingEconomicLoss
+- ergo:buildingInventoryVer4
+- ergo:buildingInventoryVer5
+- ergo:buildingInventoryVer6
+- ergo:buildingInventoryVer7
+- ergo:buriedPipelineTopology
+- ergo:epf
+- ergo:meanDamage
+- ergo:nsBuildingInventoryDamage
+- ergo:pipeline
+- ergo:pipelineDamage
+- ergo:roadDamage
+- ergo:roadDamageRatios
+- ergo:roadLinkTopo
+- ergo:roadNetwork
+- ergo:waterFacilityDamageVer4
+- ergo:waterFacilityTopo
+- incore:ADT
+- incore:addressPoints
+- incore:blockGroupData
+- incore:bridgeDamageValue
+- incore:buildingDamageMcSamples
+- incore:buildingInterdependencyDict
+- incore:buildingsToSectors
+- incore:capitalShocks
+- incore:dfr3MappingSet
+- incore:distanceToShore
+- incore:Employment
+- incore:epf
+- incore:epfDamage
+- incore:epnLinkeVer1
+- incore:epnNodeVer1
+- incore:FactorDemand
+- incore:failureProbability
+- incore:funcProbability
+- incore:funcSample
+- incore:HouseholdCount
+- incore:housingUnitAllocation
+- incore:housingUnitInventory
+- incore:JoplinCGEbb
+- incore:JoplinCGEemploy
+- incore:JoplinCGEigtd
+- incore:JoplinCGEiout
+- incore:JoplinCGEjobcr
+- incore:JoplinCGElandcap
+- incore:joplinCGEmisc
+- incore:joplinCGEmisch
+- incore:JoplinCGEoutcr
+- incore:joplinCGEsam
+- incore:joplinCGEtauff
+- incore:pipelineDamage
+- incore:polesDamageMcSamples
+- incore:popDislocation
+- incore:portfolioBuildingDamage
+- incore:portfolioBuildingInventory
+- incore:portfolioCoefficients
+- incore:portfolioDamageRatios
+- incore:portfolioOccupancyMapping
+- incore:portfolioRecovery
+- incore:portfolioUtilityAvailability
+- incore:roadFailure
+- incore:sampleFailureState
+- incore:SeasideCGEbb
+- incore:SeasideCGEemploy
+- incore:SeasideCGEEmployDS
+- incore:SeasideCGEhhtable
+- incore:SeasideCGEjobcr
+- incore:SeasideCGEsam
+- incore:SeasideCGEshocks
+- incore:SeasideCGEsim
+- incore:SeasideCGEsims
+- incore:substationsDamageMcSamples
+- incore:tornadoEPNDamageVer1
+- incore:tornadoWindfield
+- incore:transportationRecovery
+- incore:transportationRepairSchedule
+- incore:unrepairedBridge
+- incore:valueLossParam
+
+Other datatypes
+===============
+
+- ergo:annualGrossSalesOrProduction
+- ergo:anonymousLineString
+- ergo:anonymousPoint
+- ergo:anonymousPolygon
+- ergo:bridgeFunctionality
+- ergo:bridgeReplacementData
+- ergo:bridgeRetrofitCost
+- ergo:bridgeRetrofitCostEstimationResult
+- ergo:bridgesVer2
+- ergo:bridgesVer3
+- ergo:buildingDisruptionCost
+- ergo:buildingEconomicLossVer4
+- ergo:buildingFireIgnitionOccupancy
+- ergo:buildingFireIgnitionThreshold
+- ergo:buildingIndoorCasualtiesTable
+- ergo:buildingIndoorDeathFractions
+- ergo:buildingIndoorInjuryFractions
+- ergo:buildingInitialProjectCost
+- ergo:buildingInventory
+- ergo:buildingInventoryVer1
+- ergo:buildingNSContentDamageV4
+- ergo:buildingOccupancyDamageMultiplier
+- ergo:buildingPercentOwnerOccupied
+- ergo:buildingPopulationDislocation
+- ergo:buildingRecoveryTime
+- ergo:buildingRecoveryTimeMultiplier
+- ergo:buildingRentalCost
+- ergo:buildingRepairCost
+- ergo:buildingRetrofitCost
+- ergo:buriedPipelineInventory2
+- ergo:businessInventory
+- ergo:businessRecaptureFactors
+- ergo:censusdata
+- ergo:censustract
+- ergo:contentsDamageRatios
+- ergo:county
+- ergo:cpiTable
+- ergo:deepsoilLongPeriodSiteFactors
+- ergo:deepsoilShortPeriodSiteFactors
+- ergo:defaultSeismicSources
+- ergo:demRaster
+- ergo:demSlopePolygon
+- ergo:demSlopeRaster
+- ergo:demandProfileTable
+- ergo:deterministicHazardRaster
+- ergo:electricSubstationInventory
+- ergo:embaymentPolygon
+- ergo:freeway
+- ergo:gasFacilityInventory
+- ergo:gasFacilityTopology
+- ergo:gasUtilNetwork
+- ergo:geology
+- ergo:hazardEvent
+- ergo:interdependentMatrixTable
+- ergo:lifelineElecInventory
+- ergo:lifelineWaterInventory
+- ergo:lifelineWaterTankInventoryDamage
+- ergo:liquefactionSusceptibilityPolygon
+- ergo:longPeriodSiteFactors
+- ergo:maevizWaterUtilNetwork
+- ergo:odTableFile
+- ergo:originDestinationTable
+- ergo:percentBusinessInventoryDamage
+- ergo:PopAllocation
+- ergo:potentialHazards
+- ergo:powerFacilityTopo
+- ergo:powerLineTopo
+- ergo:powerUtilNetwork
+- ergo:proprietorsIncomeTable
+- ergo:pumpDamage
+- ergo:roadNodeTopo
+- ergo:roadNetworkVer2
+- ergo:shelbyTNHazardLPICoefficients
+- ergo:shelbyTNHazardLPIMagnitudeScaling
+- ergo:shortPeriodSiteFactors
+- ergo:socialScienceDevelopedArea
+- ergo:socialvulnerability
+- ergo:soilDepthRaster
+- ergo:soilTypes
+- ergo:surficialGeology
+- ergo:tempHousingBldgPerformanceTable
+- ergo:tempHousingBldgTypesTable
+- ergo:temporaryHousingAlternatives
+- ergo:temporaryHousingEnvironmentalAreas
+- ergo:test
+- ergo:toroSilvaGeologyPolgyon
+- ergo:torosilvaLongPeriodSiteFactors
+- ergo:torosilvaShortPeriodSiteFactors
+- ergo:utilityFunctionTable
+- ergo:zipCodeArea
+- incore:archetype-mapping
+- incore:boundary
+- incore:bridgeOnRoadLink
+- incore:buildingDamageVer4
+- incore:buildingOccupancyMultiplier
+- incore:buildings
+- incore:buildingsToEPN
+- incore:buildingsToTransportationNetwork
+- incore:buildingsToWaterNetwork
+- incore:buildingstoEPN
+- incore:consumerPriceIndexUS
+- incore:EPNRecoveryVer1
+- incore:JoplinCGE
+- incore:JoplinCGEshocks
+- incore:JoplinCGEtpc
+- incore:NBR
+- incore:network
+- incore:pipeZoning
+- incore:powerLineTopo
+- incore:roads
+- incore:waterNetworkDemand
+- incore:waterNetworkEpanetInp
+- incore:waternetwork
+- incore:waternodeBuildingRelations
+- Unknown
+
+Dataset-based hazard types
+==========================
+
+**Note**: Dataset-based hazard has pre-determined dataset types. Those hazard datasets do exist in the data service, 
+they can be called by the endpoint. We made a decision to hide them in the frontend since we do not want user 
+to accidentally delete them (causing the hazard to malfunction).
+
+- ergo:deterministicEarthquakeRaster
+- ergo:hazardRaster
+- ergo:probabilisticEarthquakeRaster
+- incore:deterministicFloodRaster
+- incore:deterministicHurricaneRaster
+- incore:deterministicTsunamiRaster
+- incore:hurricaneGridSnapshot
+- incore:probabilisticFloodRaster
+- incore:probabilisticHurricaneRaster
+- incore:probabilisticTsunamiRaster
