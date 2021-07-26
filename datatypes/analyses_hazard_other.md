@@ -43,6 +43,7 @@ datasets because they are used in active analyses
 - incore:bridgeDamageValue
 - incore:buildingDamageMcSamples
 - incore:buildingInterdependencyDict
+- incore:buildingRecovery
 - incore:buildingsToSectors
 - incore:capitalShocks
 - incore:dfr3MappingSet
