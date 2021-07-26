@@ -15,6 +15,15 @@ The history of seaside building inventory
 Content ofr bridge inventory version 1
 ### Bridge inventory v2
 Content for bridge inventory version 2
+### Bridge inventory v3
+Content for bridge inventory version 3
+
+## Address Point Inventory
+#### Address point inventory v1
+
+## Data Types
+### Analysis for Hazard
+### Data service pull down menu
 
 ## Released Dataset
 The list of released dataset for the testbeds
