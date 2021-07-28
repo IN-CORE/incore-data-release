@@ -11,7 +11,7 @@
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ------------ |
 | Building to sectors table | 5f202d674620b643d787a5e7 | Jul 31, 2020 | incore:buildingsToSectors | |
 | Socio-demographic data | 60fb4241544e944c3cedb507 | Jul 31, 2020 | incore:socioDemograhicData | Residential Building Recovery |
-| Financial resources by household income groups | 60fb411060b3f4124301f95a | Jul 31, 2020 | incore:incore:householdFinancialResources | Residential Building Recovery |
+| Financial resources by household income groups | 60fb411060b3f4124301f95a | Jul 31, 2020 | incore:householdFinancialResources | Residential Building Recovery |
 | Delay impending factors based on REDi framework | 60fb433cd3c92a78c89d21cc | Jul 31, 2020 | incore:buildingRecoveryFactors | Residential Building Recovery |
 | Social Account matrix | 5dd85ae7b9219c06d4da8de4 | Oct 28, 2020 | incore:JoplinCGEsam | CGE analysis |
 | Capital Comp | 5dc1e620b9219c06dd2f473a | Oct 28, 2020 | incore:JoplinCGEbb | CGE analysis |
