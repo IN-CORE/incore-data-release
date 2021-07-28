@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Address point inventory. [INCORE1-1125](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1125)
 - Galveston household-level housing recovery datasets. [INCORE1-1301](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1301)
 - Bridge v3 schema, and MMSA bridge data and fragilities [INCORE1-1271](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1271)
+- Repair fragilities and mappings [INCORE1-1326](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1326)
 
 ## [2.1.0] - 2021-04-14
 ### Added
