@@ -1,6 +1,6 @@
 # Released Repair
 ## Repair
-| Name | Fragility Id | Release Date | Hazard Type | Inventory Type |
+| Name | Repair Id | Release Date | Hazard Type | Inventory Type |
 | ------- | ---------- | ---------- | ---------- | ------------ |
 | Building Mean structural repair time for archetypes T1-5 | 60edf83bfc0f3a7af53a2008 | July 31, 2021 | Tornado | Building |
 | Building Mean structural repair time for archetype T6 | 60edf85ffc0f3a7af53a2029 | July 31, 2021 | Tornado | Building |
