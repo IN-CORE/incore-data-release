@@ -95,7 +95,7 @@
 
 | Name | Dataset ID | Date Created | Data Type | Note |
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ------------ |
-| Building occupancy_multiplier for Structural damage component | 61f3fc2f3ed7dd5c873bf9e7 | Jan 20, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
-| Building occupancy_multiplier for Acceleration-Sensitive Non-structural damage component | 61f3fc7e8486b5517284c6a7 | Jan 20, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
-| Building occupancy_multiplier for Drift-Sensitive Non-structural damage component | 61f3fcaf3ed7dd5c873bf9e8 | Jan 20, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
-| Building occupancy_multiplier for Content Non-structural damage component | 61f3fce38486b5517284c6a8 | Jan 20, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
+| Building occupancy_multiplier for Structural damage component | 61f3fc2f3ed7dd5c873bf9e7 | Feb 07, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
+| Building occupancy_multiplier for Acceleration-Sensitive Non-structural damage component | 61f3fc7e8486b5517284c6a7 | Feb 07, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
+| Building occupancy_multiplier for Drift-Sensitive Non-structural damage component | 61f3fcaf3ed7dd5c873bf9e8 | Feb 07, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
+| Building occupancy_multiplier for Content Non-structural damage component | 61f3fce38486b5517284c6a8 | Feb 07, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
