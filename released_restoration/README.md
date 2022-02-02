@@ -1,4 +1,4 @@
-# Released Repair
+# Released Restoration
 ## Restorations
 | Name | Restoration Id | Release Date | Hazard Type | Inventory Type | Source |
 | ------- | ---------- | ---------- | ---------- | ------------ | -----------|
