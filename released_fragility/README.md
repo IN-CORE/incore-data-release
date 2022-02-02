@@ -1,4 +1,4 @@
-# Released Hazard
+# Released Fragility
 ## Fragility 
 | Name | Fragility Id | Release Date | Hazard Type | Inventory Type |
 | ------- | ---------- | ---------- | ---------- | ------------ |
