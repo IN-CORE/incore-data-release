@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.0.0] - Unreleased
+### Added
+- Release ids related to economic loss analysis [#6](https://github.com/IN-CORE/incore-data-release/issues/6)
+
 ## [2.5.0] - 2021-07-28
 ### Added
 - Building inventory v7 schema. [INCORE1-1124](https://opensource.ncsa.illinois.edu/jira/browse/INCORE1-1124) 
