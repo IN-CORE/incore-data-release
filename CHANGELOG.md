@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 ### Added
 - Earthquake Water Facility and Pipeline Restoration curves and mapping [#5](https://github.com/IN-CORE/incore-data-release/issues/5)
+- Release ids related to economic loss analysis. [#6](https://github.com/IN-CORE/incore-data-release/issues/6)
 
 ## [2.5.0] - 2021-07-28
 ### Added
