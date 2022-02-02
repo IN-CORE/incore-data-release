@@ -90,7 +90,6 @@
 | Railway_Bridges_UP_Memphis_V3 | 60e86ee960b3f41243fb9ee8 | July 28, 2021 | ergo:bridgesVer3 | |
 
 ## Other datasets
-
 ### Building economy loss
 
 | Name | Dataset ID | Date Created | Data Type | Note |
