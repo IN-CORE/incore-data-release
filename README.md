@@ -35,7 +35,7 @@ The list of released fragility for the testbeds
 The list of released hazard for the testbeds
 
 ## Released Repair
-The ist of released fragility for repairs
+The list of released fragility for repairs
 
 ## Released Restoration
-The ist of released fragility for restorations
+The list of released fragility for restorations
