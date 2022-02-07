@@ -1,6 +1,6 @@
-# Released Hazard
+# Released Fragility
 ## Fragility 
-| Name | Hazard Id | Release Date | Hazard Type | Inventory Type |
+| Name | Fragility Id | Release Date | Hazard Type | Inventory Type |
 | ------- | ---------- | ---------- | ---------- | ------------ |
 | Galveston Road Damage Fragility subjected to Hurricane Inundation | 5f15cce831c60d05afa26586 | July 31, 2020 | Hurricane | Roadway |
 | Galveston building fragility (Hurricane wave/surge) | 5f6ccf67de7b566bb71b202d | Feb 28, 2021 | Hurricane | Building |
@@ -86,7 +86,7 @@
 | MMSA Highway Bridge MSC Steel Abp | 60e716c747290977c88bf6cc | July 31, 2021 | Earthquake | Bridge |
 
 ## Mapping
-| Name | Hazard Id | Release Date | Hazard Type | Inventory Type |
+| Name | Mapping Id | Release Date | Hazard Type | Inventory Type |
 | ------- | ---------- | ---------- | ---------- | ------------ |
 | Galveston Roadway Damage subjected to Hurricane Inundation Mapping | 5f15cd3d3efd0e4ebccfd5ab | July 31, 2020 | Hurricane | Roadway |
 | Galveston Hurricane Building Fragility Mapping | 602c381a1d85547cdc9f0675 | Feb 28, 2021 | Hurricane | Building |

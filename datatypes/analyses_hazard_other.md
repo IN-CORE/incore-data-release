@@ -42,6 +42,7 @@ datasets because they are used in active analyses
 - incore:blockGroupData
 - incore:bridgeDamageValue
 - incore:buildingDamageMcSamples
+- incore:buildingFuncTargetVer1
 - incore:buildingInterdependencyDict
 - incore:buildingRecovery
 - incore:buildingsToSectors
@@ -60,6 +61,7 @@ datasets because they are used in active analyses
 - incore:HouseholdCount
 - incore:housingUnitAllocation
 - incore:housingUnitInventory
+- incore:restorationTime
 - incore:JoplinCGEbb
 - incore:JoplinCGEemploy
 - incore:JoplinCGEigtd

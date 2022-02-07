@@ -133,6 +133,7 @@ There are total of 213 data types.
 - incore:bridgeOnRoadLink
 - incore:buildingDamageVer4
 - incore:buildingDamageMcSamples
+- incore:buildingFuncTargetVer1
 - incore:buildingInterdependencyDict
 - incore:buildingOccupancyMultiplier
 - incore:buildings
@@ -193,6 +194,7 @@ There are total of 213 data types.
 - incore:probabilisticFloodRaster
 - incore:probabilisticHurricaneRaster
 - incore:probabilisticTsunamiRaster
+- incore:restorationTime
 - incore:roadFailure
 - incore:roads
 - incore:sampleFailureState
