@@ -136,7 +136,9 @@ are not included in Data service.
 - incore:JoplinCGEsam
 - incore:JoplinCGEshocks
 - incore:JoplinCGEtauff
-- incore:JoplinCGEtpc
+- incore:JoplinCGEtpc 
+- incore:multiobjectiveBuildingRelatedData
+- incore:multiobjectiveStrategyCosts
 - incore:NBR
 - incore:SeasideCGEemploy
 - incore:SeasideCGEhhtable

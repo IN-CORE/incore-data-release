@@ -25,6 +25,8 @@
 | JOBCR | 5dc1e962b9219c06dd2f487e | Oct 28, 2020 | incore:JoplinCGEjobcr | CGE analysis |
 | OUTCR | 5dc1e9aeb9219c06dd2f48bc | Oct 28, 2020 | incore:JoplinCGEoutcr | CGE analysis |
 | Capital shocks | 5f21d40d4620b643d78bb4c2 | Oct 28, 2020 | incore:capitalShocks | CGE analysis |
+| Building related data required to evaluate retrofit strategies | 6193ef5b6bee8c1fac5c915e | Dec 15 2021 | incore:multiobjectiveBuildingRelatedData | Multi Objective Retrofit Optimization analysis |
+| Strategy costs data | 6193efa69340a2170d51f495 | Dec 15 2021 | incore:capitalShocks | Multi Objective Retrofit Optimization analysis |
 
 ## Seaside
 ### Building inventory
