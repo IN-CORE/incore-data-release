@@ -177,6 +177,8 @@ There are total of 213 data types.
 - incore:JoplinCGEshocks
 - incore:JoplinCGEtauff
 - incore:JoplinCGEtpc
+- incore:multiobjectiveBuildingRelatedData
+- incore:multiobjectiveStrategyCosts
 - incore:NBR
 - incore:network
 - incore:pipelineDamage
