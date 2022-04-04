@@ -73,6 +73,8 @@
 | Population dislocation inventory | 60f5ea5d544e944c3cec66dd | July 19, 2021 | incore:popDislocation ||
 | Initial stage probability | 60f5e918544e944c3cec668b | July 19, 2021 | incore:houseRecInitialStageProbability ||
 | Transition probability matrix HHRS | 60f5e2ae544e944c3cec0794 | July 19, 2021 | incore:houseRecTransitionProbMatrix ||
+| Census block groups data | 624366c3e894891aafd2b22f | March 29, 2022 | incore:censusBlockGroupsData ||
+| Additional inventory data with assessed damages, areas and building base values | 6243645b5b9e61751de9070f | March 29, 2022 | incore:buildingInventoryArea ||
 
 ## Lumberton
 ### Building inventory
@@ -100,3 +102,10 @@
 | Building occupancy_multiplier for Acceleration-Sensitive Non-structural damage component | 61f3fc7e8486b5517284c6a7 | Feb 07, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
 | Building occupancy_multiplier for Drift-Sensitive Non-structural damage component | 61f3fcaf3ed7dd5c873bf9e8 | Feb 07, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
 | Building occupancy_multiplier for Content Non-structural damage component | 61f3fce38486b5517284c6a8 | Feb 07, 2022 | incore:buildingOccupancyMultiplier | derived from the original Ergo file /
+
+### Social vulnerability
+
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ------------ |
+| National vulnerability feature averages for five categories of census data  | 6242011d09b9bd46b433beb1 | March 28, 2022 | incore:socialVulnerabilityFeatureAverages |  |
+| Demographic factors for Douglas county, KS, 2019 tract | 6242017c5b9e61751de8e530 | March 28, 2022 | incore:socialVulnerabilityDemFactors |  |

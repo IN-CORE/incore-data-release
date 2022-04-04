@@ -155,6 +155,7 @@ are not included in Data service.
 - incore:bridgeOnRoadLink
 - incore:buildingDamageVer4
 - incore:buildingInterdependencyDict
+- incore:buildingInventoryArea
 - incore:buildingOccupancyMultiplier
 - incore:buildings
 - incore:buildingsToEPN
@@ -163,6 +164,8 @@ are not included in Data service.
 - incore:buildingsToWaterNetwork
 - incore:buildingstoEPN
 - incore:capitalShocks
+- incore:censusAppraisalData
+- incore:censusBlockGroupsData
 - incore:consumerPriceIndexUS
 - incore:deterministicFloodRaster
 - incore:deterministicHurricaneRaster" data-value="
@@ -190,6 +193,8 @@ are not included in Data service.
 - incore:probabilisticTsunamiRaster
 - incore:roads
 - incore:sampleFailureState
+- incore:socialVulnerabilityDemFactors
+- incore:socialVulnerabilityFeatureAverages
 - incore:tornadoWindfield
 - incore:unrepairedBridge
 - incore:valuLossParam
