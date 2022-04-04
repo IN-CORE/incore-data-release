@@ -135,7 +135,9 @@ There are total of 213 data types.
 - incore:buildingDamageMcSamples
 - incore:buildingFuncTargetVer1
 - incore:buildingInterdependencyDict
+- incore:buildingInventoryArea
 - incore:buildingOccupancyMultiplier
+- incore:buildingValues
 - incore:buildings
 - incore:buildingsToEPN
 - incore:buildingsToSectors
@@ -143,6 +145,8 @@ There are total of 213 data types.
 - incore:buildingsToWaterNetwork
 - incore:buildingstoEPN
 - incore:capitalShocks
+- incore:censusAppraisalData
+- incore:censusBlockGroupsData
 - incore:consumerPriceIndexUS
 - incore:deterministicFloodRaster
 - incore:deterministicHurricaneRaster
@@ -177,6 +181,8 @@ There are total of 213 data types.
 - incore:JoplinCGEshocks
 - incore:JoplinCGEtauff
 - incore:JoplinCGEtpc
+- incore:multiobjectiveBuildingRelatedData
+- incore:multiobjectiveStrategyCosts
 - incore:NBR
 - incore:network
 - incore:pipelineDamage
@@ -207,6 +213,9 @@ There are total of 213 data types.
 - incore:SeasideCGEshocks
 - incore:SeasideCGEsim
 - incore:SeasideCGEsims
+- incore:socialVulnerabilityDemFactors
+- incore:socialVulnerabilityFeatureAverages
+- incore:socialVulnerabilityScore
 - incore:substationsDamageMcSamples
 - incore:TornadoEpnDamageVer1
 - incore:tornadoWindfield

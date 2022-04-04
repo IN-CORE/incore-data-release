@@ -44,9 +44,13 @@ datasets because they are used in active analyses
 - incore:buildingDamageMcSamples
 - incore:buildingFuncTargetVer1
 - incore:buildingInterdependencyDict
+- incore:buildingInventoryArea
 - incore:buildingRecovery
 - incore:buildingsToSectors
+- incore:buildingValues
 - incore:capitalShocks
+- incore:censusAppraisalData
+- incore:censusBlockGroupsData
 - incore:dfr3MappingSet
 - incore:distanceToShore
 - incore:Employment
@@ -94,6 +98,9 @@ datasets because they are used in active analyses
 - incore:SeasideCGEshocks
 - incore:SeasideCGEsim
 - incore:SeasideCGEsims
+- incore:socialVulnerabilityDemFactors
+- incore:socialVulnerabilityFeatureAverages
+- incore:socialVulnerabilityScore
 - incore:substationsDamageMcSamples
 - incore:tornadoEPNDamageVer1
 - incore:tornadoWindfield

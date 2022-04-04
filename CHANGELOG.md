@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.1.0] - 2020-03-30
+### Added
+- Dataset ids and types for Multi objective retrofit analysis [#12](https://github.com/IN-CORE/incore-data-release/issues/12)
+- Housing recovery and social vulnerability analyses [#14](https://github.com/IN-CORE/incore-data-release/issues/14) 
+
 ## [3.0.0] - 2022-02-07
 ### Added
 - Earthquake Water Facility and Pipeline Restoration curves and mapping [#5](https://github.com/IN-CORE/incore-data-release/issues/5)
