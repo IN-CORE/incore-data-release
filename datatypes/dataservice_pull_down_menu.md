@@ -201,6 +201,6 @@ are not included in Data service.
 - incore:valuLossParam
 - incore:waterNetworkDemand
 - incore:waterNetworkEpanetInp
-- incore:waternetwork
+- incore:waterNetwork
 - incore:waternodeBuildingRelations
 - Unknown
