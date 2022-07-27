@@ -173,6 +173,7 @@ are not included in Data service.
 - incore:distanceToShore" data-value="
 - incore:distanceToShore
 - incore:epf
+- incore:epnNetwork
 - incore:epnLinkeVer1" data-value="
 - incore:epnLinkeVer1
 - incore:epnNodeVer1

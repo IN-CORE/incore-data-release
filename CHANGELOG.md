@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+### Added
+- EPN network data type [#24](https://github.com/IN-CORE/incore-data-release/issues/24)
+
 ## [3.5.0] - 2022-07-27
 ### Added
 - Water facility network and Electric power network datasets for MMSA Shelby [#19](https://github.com/IN-CORE/incore-data-release/issues/19)
