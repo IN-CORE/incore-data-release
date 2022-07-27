@@ -156,6 +156,7 @@ There are total of 213 data types.
 - incore:Employment
 - incore:epf
 - incore:epfDamage
+- incore:epnNetwork
 - incore:epnLinkeVer1
 - incore:epnNodeVer1
 - incore:EPNRecoveryVer1
@@ -225,6 +226,6 @@ There are total of 213 data types.
 - incore:valuLossParam
 - incore:waterNetworkDemand
 - incore:waterNetworkEpanetInp
-- incore:waternetwork
+- incore:waterNetwork
 - incore:waternodeBuildingRelations
 - Unknown
