@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [3.5.0] - 2022-07-27
 ### Added
-- Potable water network and Electric power network datasets for MMSA [#19](https://github.com/IN-CORE/incore-data-release/issues/19)
+- Portable water network and Electric power network datasets for MMSA [#19](https://github.com/IN-CORE/incore-data-release/issues/19)
 - EPN network data type [#24](https://github.com/IN-CORE/incore-data-release/issues/24)
 
 ## [3.1.0] - 2022-03-30
