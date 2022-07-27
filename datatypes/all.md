@@ -226,6 +226,6 @@ There are total of 213 data types.
 - incore:valuLossParam
 - incore:waterNetworkDemand
 - incore:waterNetworkEpanetInp
-- incore:waterNeetwork
+- incore:waterNetwork
 - incore:waternodeBuildingRelations
 - Unknown
