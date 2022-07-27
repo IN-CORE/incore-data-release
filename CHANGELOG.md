@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [3.5.0] - 2022-07-27
 ### Added
-- Water facility network and Electric power network datasets for MMSA Shelby [#19](https://github.com/IN-CORE/incore-data-release/issues/19)
+- Potable water network and Electric power network datasets for MMSA [#19](https://github.com/IN-CORE/incore-data-release/issues/19)
 
 ## [3.1.0] - 2022-03-30
 ### Added
