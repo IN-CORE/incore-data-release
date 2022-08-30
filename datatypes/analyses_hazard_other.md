@@ -98,6 +98,12 @@ datasets because they are used in active analyses
 - incore:SeasideCGEshocks
 - incore:SeasideCGEsim
 - incore:SeasideCGEsims
+- incore:ShelbyCGEbb
+- incore:ShelbyCGEemploy
+- incore:ShelbyCGEhhtable
+- incore:ShelbyCGEjobcr
+- incore:ShelbyCGEsam
+- incore:ShelbyCGEsim
 - incore:socialVulnerabilityDemFactors
 - incore:socialVulnerabilityFeatureAverages
 - incore:socialVulnerabilityScore
