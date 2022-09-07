@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unrelease] 
+- Galveston testbed datasets including building inventory, fragilities and mappings [#31](https://github.com/IN-CORE/incore-data-release/issues/31)
+
 ## [3.5.0] - 2022-07-27
 ### Added
 - Portable water network and Electric power network datasets for MMSA [#19](https://github.com/IN-CORE/incore-data-release/issues/19)

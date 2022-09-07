@@ -50,6 +50,7 @@
 | Name | Dataset ID | Date Created | Data Type | Note |
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ---- |
 | Building Inventory| 60354b6c123b4036e6837ef7 | Feb 26, 2021 | ergo:buildingInventoryVer7 | |
+| Building Inventory| 63053ddaf5438e1f8c517fed | Sept 14, 2022 | ergo:buildingInventoryVer7 | |
 
 ### Bridge inventory 
 | Name | Dataset ID | Date Created | Data Type | Note |
