@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Shelby CGE datasets [#29](https://github.com/IN-CORE/incore-data-release/issues/29)
+- Galveston testbed datasets including building inventory, fragilities and mappings [#31](https://github.com/IN-CORE/incore-data-release/issues/31)
 
 ## [3.5.0] - 2022-07-27
 
