@@ -57,6 +57,11 @@
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
 | Island Bridge Inventory V2 | 60620320be94522d1cb9f7f0 | April 21, 2021 | ergo:bridgesVer2 | |
 
+### Electric power facility inventory
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
+| Electric power facility | 62fc000f88470b319561b58d | Sept 14, 2022 | incore:epfVer2 | |
+
 ### Address point inventory
 | Name | Dataset ID | Date Created | Data Type | Note |
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ---- |

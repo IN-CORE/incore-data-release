@@ -84,6 +84,48 @@
 | MMSA Highway Bridge MSC Concrete Fbt | 60da0ebd6fb1bc236b548506 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge SS Steel Ebt | 60e7174da0c8a24d7edfee74 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge MSC Steel Abp | 60e716c747290977c88bf6cc | July 31, 2021 | Earthquake | Bridge |
+| Galveston Electric Power Tower | 62fa6f9ccef2881193f22610 | Sept 14, 2022 | Hurricane | EPF |
+| Galveston Electric Power Wood Pole | 62fac7be8a30d30dac57bbce | Sept 14, 2022 | Hurricane | EPF |
+| Galveston Hurricane Wind Fragility for Building Archetype 1 | 62fbc904d16f760a4d047448 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 2 | 62fbc904cef2881193f2261a | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 3 | 62fbc9058a30d30dac57bbd5 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 4 | 62fbc905d76c6d0e1f6bdfe6 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 5 | 62fbcbd6d16f760a4d047449 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 6 | 62fbc57bd76c6d0e1f6bdfe1 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 7 | 62fbc57cd16f760a4d047444 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 8 | 62fbc57ccef2881193f22617 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 9 | 62fbc57c8a30d30dac57bbd1 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 10 | 62fbc57cd76c6d0e1f6bdfe2 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 11 | 62fbc57dd16f760a4d047445 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 12 | 62fbc57dcef2881193f22618 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 13 | 62fbc57d8a30d30dac57bbd2 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 14 | 62fbc57dd76c6d0e1f6bdfe3 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 15 | 62fbcca1cef2881193f2261b | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 16 | 62fbcca18a30d30dac57bbd6 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 17 | 62fbc7058a30d30dac57bbd3 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 18 | 62fbc706d76c6d0e1f6bdfe4 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Wind Fragility for Building Archetype 19 | 62fbc706d16f760a4d047446 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 1 | 62fefa98cef2881193f2261e | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 2 | 62fefa9ad76c6d0e1f6bdfe7 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 3 | 62fefa9acef2881193f2261f | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 4 | 62fefa9bd76c6d0e1f6bdfe8 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 5 | 62fefa9bcef2881193f22620 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 6 | 62fefa9bd76c6d0e1f6bdfe9 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 7 | 62fefa9ccef2881193f22621 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 8 | 62fefa9cd76c6d0e1f6bdfea | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 9 | 62fefa9ccef2881193f22622 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 10 | 62fefa9dd76c6d0e1f6bdfeb | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 11 | 62fefa9dcef2881193f22623 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 12 | 62fefa9dd76c6d0e1f6bdfec | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 13 | 62fefa9ecef2881193f22624 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 14 | 62fefa9ed76c6d0e1f6bdfed | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Fragility for Building Archetype 15 | 62fefa9fcef2881193f22625 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Surge-Wave Fragility for Building Archetype 1 | 6303c9e1cef2881193f226bc | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Surge-Wave Fragility for Building Archetype 2 | 6303c9e18a30d30dac57bc6e | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Surge-Wave Fragility for Building Archetype 3 | 6303c9e1d76c6d0e1f6be07f | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Surge-Wave Fragility for Building Archetype 4 | 6303c9e2d16f760a4d0474e0 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Surge-Wave Fragility for Building Archetype 5 | 6303c9e2cef2881193f226bd | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Surge-Wave Fragility for Building Archetype 20 | 6303c9e28a30d30dac57bc6f | Sept 14, 2022 | Hurricane | Building |
 
 ## Mapping
 | Name | Mapping Id | Release Date | Hazard Type | Inventory Type |
@@ -108,3 +150,7 @@
 | MMSA Highway FBL Mapping | 60f89fdda0c8a24d7eedfa9f | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway ABT Mapping | 60f89fdf6fb1bc236b68d61c | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway FBT Mapping | 60f89fdf52e10319df808b5f | July 31, 2021 | Earthquake | Bridge |
+| Galveston Hurricane Electric Power Facilities Mapping | 62fac92ecef2881193f22613 | Sept 14, 2022 | Hurricane | EPF |
+| Galveston Hurricane Wind Facilities Mapping For Building | 62fef3a6cef2881193f2261d | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Flood Facilities Mapping For Building | 62fefd688a30d30dac57bbd7 | Sept 14, 2022 | Hurricane | Building |
+| Galveston Hurricane Surge-Wave Facilities Mapping For Building | 6303e51bd76c6d0e1f6be080 | Sept 14, 2022 | Hurricane | Building |
