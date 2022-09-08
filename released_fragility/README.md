@@ -2,8 +2,6 @@
 ## Fragility 
 | Name | Fragility Id | Release Date | Hazard Type | Inventory Type |
 | ------- | ---------- | ---------- | ---------- | ------------ |
-| Galveston Road Damage Fragility subjected to Hurricane Inundation | 5f15cce831c60d05afa26586 | July 31, 2020 | Hurricane | Roadway |
-| Galveston building fragility (Hurricane wave/surge) | 5f6ccf67de7b566bb71b202d | Feb 28, 2021 | Hurricane | Building |
 | Lumberton building (Flood) F1 Fragility | 602f31f381bd2c09ad8efcb4 | Feb 28, 2021 | Flood | Building |
 | Lumberton building (Flood) F2 Fragility | 602f32cf81bd2c09ad8efcd5 | Feb 28, 2021 | Flood | Building |
 | Lumberton building (Flood) F3 Fragility | 602f336c81bd2c09ad8efcf6 | Feb 28, 2021 | Flood | Building |
@@ -19,7 +17,6 @@
 | Lumberton building (Flood) F13 Fragility | 602f393381bd2c09ad8efe40 | Feb 28, 2021 | Flood | Building |
 | Lumberton building (Flood) F14 Fragility | 602f397b81bd2c09ad8efe61 | Feb 28, 2021 | Flood | Building |
 | Lumberton building (Flood) F15 Fragility | 602f39c781bd2c09ad8efe82 | Feb 28, 2021 | Flood | Building |
-| Galveston bridge fragility specific for hurricane surge | 606221fe618178207f6608a1  | April 21, 2021 | Hurricane | Bridge |
 | MMSA Railway Bridge MSSS TPG FBT | 60f59dd1a0c8a24d7eec7c7f | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS TPG EBL | 60da0e716fb1bc236b54438b | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway Bridge MSSS Steel FBL | 60da0e7352e10319df6c1c6f | July 31, 2021 | Earthquake | Bridge |
@@ -84,6 +81,9 @@
 | MMSA Highway Bridge MSC Concrete Fbt | 60da0ebd6fb1bc236b548506 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge SS Steel Ebt | 60e7174da0c8a24d7edfee74 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway Bridge MSC Steel Abp | 60e716c747290977c88bf6cc | July 31, 2021 | Earthquake | Bridge |
+| Galveston Road Damage Fragility subjected to Hurricane Inundation | 5f15cce831c60d05afa26586 | July 31, 2020 | Hurricane | Roadway |
+| Galveston building fragility (Hurricane wave/surge) | 5f6ccf67de7b566bb71b202d | Feb 28, 2021 | Hurricane | Building |
+| Galveston bridge fragility specific for hurricane surge | 606221fe618178207f6608a1  | April 21, 2021 | Hurricane | Bridge |
 | Galveston Electric Power Tower | 62fa6f9ccef2881193f22610 | Sept 14, 2022 | Hurricane | EPF |
 | Galveston Electric Power Wood Pole | 62fac7be8a30d30dac57bbce | Sept 14, 2022 | Hurricane | EPF |
 | Galveston Hurricane Wind Fragility for Building Archetype 1 | 62fbc904d16f760a4d047448 | Sept 14, 2022 | Hurricane | Building |
@@ -130,10 +130,7 @@
 ## Mapping
 | Name | Mapping Id | Release Date | Hazard Type | Inventory Type |
 | ------- | ---------- | ---------- | ---------- | ------------ |
-| Galveston Roadway Damage subjected to Hurricane Inundation Mapping | 5f15cd3d3efd0e4ebccfd5ab | July 31, 2020 | Hurricane | Roadway |
-| Galveston Hurricane Building Fragility Mapping | 602c381a1d85547cdc9f0675 | Feb 28, 2021 | Hurricane | Building |
 | Lumberton flood fragilities for 15 archetype building | 602f3cf981bd2c09ad8f4f9d | Feb 28, 2021 | Flood | Building |
-| Galveston Hurricane Bridge Fragility Mapping | 6062254b618178207f66226c | April 21, 2021 | Hurricane | Bridge |
 | MMSA Railway ABT Mapping | 60f89fc947290977c8994215 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway FBL Mapping | 60f89fcba0c8a24d7eedf6a0 | July 31, 2021 | Earthquake | Bridge |
 | MMSA Railway FBT Mapping | 60f89fcd6fb1bc236b68d049 | July 31, 2021 | Earthquake | Bridge |
@@ -150,6 +147,9 @@
 | MMSA Highway FBL Mapping | 60f89fdda0c8a24d7eedfa9f | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway ABT Mapping | 60f89fdf6fb1bc236b68d61c | July 31, 2021 | Earthquake | Bridge |
 | MMSA Highway FBT Mapping | 60f89fdf52e10319df808b5f | July 31, 2021 | Earthquake | Bridge |
+| Galveston Roadway Damage subjected to Hurricane Inundation Mapping | 5f15cd3d3efd0e4ebccfd5ab | July 31, 2020 | Hurricane | Roadway |
+| Galveston Hurricane Building Fragility Mapping | 602c381a1d85547cdc9f0675 | Feb 28, 2021 | Hurricane | Building |
+| Galveston Hurricane Bridge Fragility Mapping | 6062254b618178207f66226c | April 21, 2021 | Hurricane | Bridge |
 | Galveston Hurricane Electric Power Facilities Mapping | 62fac92ecef2881193f22613 | Sept 14, 2022 | Hurricane | EPF |
 | Galveston Hurricane Wind Facilities Mapping For Building | 62fef3a6cef2881193f2261d | Sept 14, 2022 | Hurricane | Building |
 | Galveston Hurricane Flood Facilities Mapping For Building | 62fefd688a30d30dac57bbd7 | Sept 14, 2022 | Hurricane | Building |
