@@ -50,11 +50,17 @@
 | Name | Dataset ID | Date Created | Data Type | Note |
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ---- |
 | Building Inventory| 60354b6c123b4036e6837ef7 | Feb 26, 2021 | ergo:buildingInventoryVer7 | |
+| Building Inventory| 63053ddaf5438e1f8c517fed | Sept 14, 2022 | ergo:buildingInventoryVer7 | |
 
 ### Bridge inventory 
 | Name | Dataset ID | Date Created | Data Type | Note |
 | ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
 | Island Bridge Inventory V2 | 60620320be94522d1cb9f7f0 | April 21, 2021 | ergo:bridgesVer2 | |
+
+### Electric power facility inventory
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
+| Electric power facility | 62fc000f88470b319561b58d | Sept 14, 2022 | incore:epfVer2 | |
 
 ### Address point inventory
 | Name | Dataset ID | Date Created | Data Type | Note |
@@ -94,6 +100,15 @@
 | Railway_Bridges_UP_Memphis_V3 | 60e86ee960b3f41243fb9ee8 | July 28, 2021 | ergo:bridgesVer3 | |
 | MMSA Shelby water network | 62d586120b99e237881b0519 | July 27, 2022 | incore:waterNetwork | |
 | MMSA EPN network| 62d85b399701070dbf8c65fe | July 27, 2022 | incore:epnNetwork | |
+
+### Network cascading interdependency inventory
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
+| MMSA modified electric power facilities | 631f932d61fe1122867c00d3 | September 14, 2022| incore:epf | |
+| MMSA EPF network - NCI | 631f48ccb4f2e17eff72d33d | September 14, 2022 | incore:epnNetwork | |
+| MMSA WDS network - NCI | 631f4bfb923e0e341acf1c96 | September 14, 2022 | incore:waterNetwork | |
+| MMSA EPF-WDS interdependency network - NCI | 631f95f3b4f2e17eff72e2e9 | September 14, 2022 | networkInterdependencyTable | |
+| MMSA WDS-EPF interdependency network - NCI| 631f4bfb923e0e341acf1c96 | September 14, 2022 | networkInterdependencyTable | |
 
 ## Other datasets
 ### Building economy loss
