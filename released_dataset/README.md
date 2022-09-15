@@ -101,6 +101,15 @@
 | MMSA Shelby water network | 62d586120b99e237881b0519 | July 27, 2022 | incore:waterNetwork | |
 | MMSA EPN network| 62d85b399701070dbf8c65fe | July 27, 2022 | incore:epnNetwork | |
 
+### Network cascading interdependency inventory
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
+| MMSA modified electric power facilities | 631f932d61fe1122867c00d3 | September 14, 2022| incore:epf | |
+| MMSA EPF network - NCI | 631f48ccb4f2e17eff72d33d | September 14, 2022 | incore:epnNetwork | |
+| MMSA WDS network - NCI | 631f4bfb923e0e341acf1c96 | September 14, 2022 | incore:waterNetwork | |
+| MMSA EPF-WDS interdependency network - NCI | 631f95f3b4f2e17eff72e2e9 | September 14, 2022 | networkInterdependencyTable | |
+| MMSA WDS-EPF interdependency network - NCI| 631f4bfb923e0e341acf1c96 | September 14, 2022 | networkInterdependencyTable | |
+
 ## Other datasets
 ### Building economy loss
 

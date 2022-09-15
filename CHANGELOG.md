@@ -5,7 +5,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unrelease] 
+## [3.6.0] - 2022-09-14 
+- Add network cascading interdependency functionality for MMSA testbed [#35](https://github.com/IN-CORE/incore-data-release/issues/35)
 - Galveston testbed datasets including building inventory, fragilities and mappings [#31](https://github.com/IN-CORE/incore-data-release/issues/31)
 
 ## [3.5.0] - 2022-07-27
