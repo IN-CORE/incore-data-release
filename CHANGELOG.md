@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 ###
-- Shelby CGE datasets [#38](https://github.com/IN-CORE/incore-data-release/issues/38)
+- Joplin CGE datasets [#38](https://github.com/IN-CORE/incore-data-release/issues/38)
 
 ## [3.6.0] - 2022-09-14 
 ### Added
