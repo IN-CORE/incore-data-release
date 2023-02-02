@@ -112,6 +112,15 @@
 | A household table | 630e60a9f5438e1f8c51ceaa | Sep 14, 2022| incore:ShelbyCGEhhtable | CGE analysis |
 | Random numbers for the change of capital stocks | 630e60fd88470b319562bbee | Sep 14, 2022 | incore:ShelbyCGEsim | CGE analysis |
 
+### Network cascading interdependency inventory
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- | 
+| MMSA modified electric power facilities | 631f932d61fe1122867c00d3 | September 14, 2022| incore:epf | |
+| MMSA EPF network - NCI | 631f48ccb4f2e17eff72d33d | September 14, 2022 | incore:epnNetwork | |
+| MMSA WDS network - NCI | 631f4bfb923e0e341acf1c96 | September 14, 2022 | incore:waterNetwork | |
+| MMSA EPF-WDS interdependency network - NCI | 631f95f3b4f2e17eff72e2e9 | September 14, 2022 | networkInterdependencyTable | |
+| MMSA WDS-EPF interdependency network - NCI| 631f4bfb923e0e341acf1c96 | September 14, 2022 | networkInterdependencyTable | |
+
 ## Other datasets
 ### Building economy loss
 

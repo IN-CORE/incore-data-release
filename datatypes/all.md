@@ -156,6 +156,7 @@ There are total of 213 data types.
 - incore:Employment
 - incore:epf
 - incore:epfDamage
+- incore:epfDiscretizedCascadingFunc
 - incore:epnNetwork
 - incore:epnLinkeVer1
 - incore:epnNodeVer1
@@ -186,6 +187,7 @@ There are total of 213 data types.
 - incore:multiobjectiveStrategyCosts
 - incore:NBR
 - incore:network
+- incore:networkInterdependencyTable
 - incore:pipelineDamage
 - incore:pipeZoning
 - incore:polesDamageMcSamples

@@ -56,8 +56,10 @@ datasets because they are used in active analyses
 - incore:Employment
 - incore:epf
 - incore:epfDamage
+- incore:epfDiscretizedCascadingFunc
 - incore:epnLinkeVer1
 - incore:epnNodeVer1
+- incore:epnNetwork
 - incore:FactorDemand
 - incore:failureProbability
 - incore:funcProbability
@@ -65,7 +67,7 @@ datasets because they are used in active analyses
 - incore:HouseholdCount
 - incore:housingUnitAllocation
 - incore:housingUnitInventory
-- incore:restorationTime
+- incore:networkInterdependencyTable
 - incore:JoplinCGEbb
 - incore:JoplinCGEemploy
 - incore:JoplinCGEigtd
@@ -87,6 +89,7 @@ datasets because they are used in active analyses
 - incore:portfolioOccupancyMapping
 - incore:portfolioRecovery
 - incore:portfolioUtilityAvailability
+- incore:restorationTime
 - incore:roadFailure
 - incore:sampleFailureState
 - incore:SeasideCGEbb
@@ -114,6 +117,7 @@ datasets because they are used in active analyses
 - incore:transportationRepairSchedule
 - incore:unrepairedBridge
 - incore:valueLossParam
+- incore:waterNetwork
 
 Other datatypes
 ===============
@@ -230,7 +234,6 @@ Other datatypes
 - incore:roads
 - incore:waterNetworkDemand
 - incore:waterNetworkEpanetInp
-- incore:waternetwork
 - incore:waternodeBuildingRelations
 - Unknown
 
