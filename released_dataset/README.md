@@ -8,7 +8,7 @@
 
 ### Other dataset
 | Name | Dataset ID | Date Created | Data Type | Note |
-| ------------------------------------ | ------------------------ | ------------ | ------------ | ------------ |
+| ------------------------------------ | ------------------------ |--------------| -- | ------------ |
 | Building to sectors table | 5f202d674620b643d787a5e7 | Jul 28, 2021 | incore:buildingsToSectors | |
 | Socio-demographic data | 60fb4241544e944c3cedb507 | Jul 28, 2021 | incore:socioDemograhicData | Residential Building Recovery |
 | Financial resources by household income groups | 60fb411060b3f4124301f95a | Jul 28, 2021 | incore:householdFinancialResources | Residential Building Recovery |
@@ -25,8 +25,10 @@
 | JOBCR | 5dc1e962b9219c06dd2f487e | Oct 28, 2020 | incore:JoplinCGEjobcr | CGE analysis |
 | OUTCR | 5dc1e9aeb9219c06dd2f48bc | Oct 28, 2020 | incore:JoplinCGEoutcr | CGE analysis |
 | Capital shocks | 5f21d40d4620b643d78bb4c2 | Oct 28, 2020 | incore:capitalShocks | CGE analysis |
-| Building related data required to evaluate retrofit strategies | 6193ef5b6bee8c1fac5c915e | Dec 15 2021 | incore:multiobjectiveBuildingRelatedData | Multi Objective Retrofit Optimization analysis |
-| Strategy costs data | 6193efa69340a2170d51f495 | Dec 15 2021 | incore:capitalShocks | Multi Objective Retrofit Optimization analysis |
+| Building related data required to evaluate retrofit strategies | 6193ef5b6bee8c1fac5c915e | Dec 15 2021  | incore:multiobjectiveBuildingRelatedData | Multi Objective Retrofit Optimization analysis |
+| Strategy costs data | 6193efa69340a2170d51f495 | Dec 15 2021  | incore:capitalShocks | Multi Objective Retrofit Optimization analysis |
+| National vulnerability averages | 63d178c2a011a9746c948115 | Feb 28 2023  | incore:socialVulnerabilityFeatureAverages | CGE analysis |
+| Dem factors | 63d17d89c4b5713b9c0bb8c1 | Feb 28 2023  | incore:socialVulnerabilityDemFactors | CGE analysis |
 
 ## Seaside
 ### Building inventory
