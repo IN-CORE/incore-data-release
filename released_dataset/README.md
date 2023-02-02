@@ -26,7 +26,8 @@
 | OUTCR | 5dc1e9aeb9219c06dd2f48bc | Oct 28, 2020 | incore:JoplinCGEoutcr | CGE analysis |
 | Capital shocks | 5f21d40d4620b643d78bb4c2 | Oct 28, 2020 | incore:capitalShocks | CGE analysis |
 | Building related data required to evaluate retrofit strategies | 6193ef5b6bee8c1fac5c915e | Dec 15 2021 | incore:multiobjectiveBuildingRelatedData | Multi Objective Retrofit Optimization analysis |
-| Strategy costs data | 6193efa69340a2170d51f495 | Dec 15 2021 | incore:capitalShocks | Multi Objective Retrofit Optimization analysis || National vulnerability averages | 63d178c2a011a9746c948115 | Feb 28 2023  | incore:socialVulnerabilityFeatureAverages | CGE analysis |
+| Strategy costs data | 6193efa69340a2170d51f495 | Dec 15 2021 | incore:capitalShocks | Multi Objective Retrofit Optimization analysis |
+| National vulnerability averages | 63d178c2a011a9746c948115 | Feb 28 2023  | incore:socialVulnerabilityFeatureAverages | CGE analysis |
 | Dem factors | 63d17d89c4b5713b9c0bb8c1 | Feb 28 2023  | incore:socialVulnerabilityDemFactors | CGE analysis |
 
 ## Seaside
