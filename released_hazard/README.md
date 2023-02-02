@@ -12,3 +12,7 @@
 | Hurricane Ike 1% Annual Exceedance Probability (100-yr return period) | 5fa5a9497e5cdf51ebf1add2 | Feb 26, 2021 | Hurricane wave/surge|
 | Hurricane Ike 0.2% Annual Exceedance Probability (500-yr return period) | 5fa5aa19b6429615aeea4476 | Feb 26, 2021 | Hurricane wave/surge|
 
+## Earthquake
+| Name | Hazard Id | Release Date | Hazard Type |
+| ------- | ---------- |--------------| -- |
+| EQ 7.2 Mar_18_2020 NM  | 628fc3a2be7de109e898d718 | Feb 22, 2023 | Earthquake |
