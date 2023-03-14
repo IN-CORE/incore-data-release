@@ -68,19 +68,22 @@
 | Address Point Inventory | 60620320be94522d1cb9f7f0 | Feb 26, 2021 | incore:addressPoints | |
 
 ### Other dataset
-| Name | Dataset ID | Date Created | Data Type | Note |
-| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- |
-| Island Roadway inventory | 5f15d04f33b2700c11fc9c4e | Jul 31, 2020 | ergo:roadLinkTopo | |
-| Island Road Distance to Shore Table | 5f189ada53587c306ed478da | Jul 31, 2020 | incore:distanceToShore | |
-| Housing Unit Inventory | 5fc6ab1cd2066956f49e7a03 | Feb 26, 2021 | incore:housingUnitInventory | |
-| Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:blockGroupData | |
-| Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:valuLossParam | |
-| Bridge on Road Link| 606dd68fbe94522d1cc034b2 | April 7, 2021 | incore:bridgeOnRoadLink | |
-| Population dislocation inventory | 60f5ea5d544e944c3cec66dd | July 19, 2021 | incore:popDislocation ||
-| Initial stage probability | 60f5e918544e944c3cec668b | July 19, 2021 | incore:houseRecInitialStageProbability ||
-| Transition probability matrix HHRS | 60f5e2ae544e944c3cec0794 | July 19, 2021 | incore:houseRecTransitionProbMatrix ||
+| Name | Dataset ID              | Date Created   | Data Type | Note                    |
+| ----------------------------------- |-------------------------|----------------| -- |-------------------------|
+| Island Roadway inventory | 5f15d04f33b2700c11fc9c4e | Jul 31, 2020   | ergo:roadLinkTopo |                         |
+| Island Road Distance to Shore Table | 5f189ada53587c306ed478da | Jul 31, 2020   | incore:distanceToShore |                         |
+| Housing Unit Inventory | 5fc6ab1cd2066956f49e7a03 | Feb 26, 2021   | incore:housingUnitInventory |                         |
+| Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021   | incore:blockGroupData |                         |
+| Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021   | incore:valuLossParam |                         |
+| Bridge on Road Link| 606dd68fbe94522d1cc034b2 | April 7, 2021  | incore:bridgeOnRoadLink |                         |
+| Population dislocation inventory | 60f5ea5d544e944c3cec66dd | July 19, 2021  | incore:popDislocation ||
+| Initial stage probability | 60f5e918544e944c3cec668b | July 19, 2021  | incore:houseRecInitialStageProbability ||
+| Transition probability matrix HHRS | 60f5e2ae544e944c3cec0794 | July 19, 2021  | incore:houseRecTransitionProbMatrix ||
 | Census block groups data | 624366c3e894891aafd2b22f | March 29, 2022 | incore:censusBlockGroupsData ||
 | Additional inventory data with assessed damages, areas and building base values | 6243645b5b9e61751de9070f | March 29, 2022 | incore:buildingInventoryArea ||
+| Structural Cost Ratios | 63ff7b2b5c35c0353d5edeeb | March 01, 2023 | incore:structuralCostRatio | Combined loss analysis  |
+| Content Cost Ratios | 63ff7b04a36332563d497cff | March 01, 2023 | incore:contentCostRatio | Combined loss analysis  |
+
 
 ## Lumberton
 ### Building inventory
@@ -128,24 +131,24 @@
 | Building Inventory| 62fea288f5438e1f8c515ef8 | Feb 22, 2023 | ergo:buildingInventoryVer6 | |
 
 ### Other datasets
-| Name                                | Dataset ID | Date Created | Data Type                 | Note |
-|-------------------------------------| ------------------------ |--------------|---------------------------| ------------ |
-| Salt Lake County Liquefaction Susceptibility | 62fe9ab685ac6b569e372429 | Feb 22, 2023 | ergo:liquefactionSusceptibilityPolygon | CGE analysis |
-| SLC archetype mapping | 63dbca62a011a9746c95697f | Feb 22, 2023 | incore:archetype-mapping | CGE analysis |
-| Salt Lake City Power Facility - Substations | 63daade962b9d001e6a16a0d | Feb 22, 2023 | incore:epf | CGE analysis |
-| Salt Lake City interdependency dictionary - buildings and substations | 63daae5366818b21b82a07a4 | Feb 22, 2023 | incore:buildingInterdependencyDict | CGE analysis |
-| Salt Lake City building to sectors table | 63daaea166818b21b82a07a5 | Feb 22, 2023 | incore:buildingsToSectors | CGE analysis |
-| Housing Unit Allocation v2.0.0 data for SLC_UT 2010 | 6349cfb888a94f621d8fd5dd | Feb 22, 2023 | incore:housingUnitAllocation | CGE analysis |
-| SLC Block Group Data | 63c9af5bc4b5713b9c0b559d | Feb 22, 2023 | incore:blockGroupData | CGE analysis |
-| Value loss parameters 4 DS | 60354810e379f22e16560dbd | Feb 22, 2023 | incore:valuLossParam | CGE analysis |
-| Salt Lake City Capital Comp | 63daaf5ca011a9746c954081 | Feb 22, 2023 | incore:JoplinCGEbb | CGE analysis |
-| Salt Lake City Social Accounting Matrix | 63daafa9c4b5713b9c0c96ae | Feb 22, 2023 | incore:JoplinCGEsam | CGE analysis |
-| Salt Lake City MISCH v2 | 63daafe5a011a9746c954082 | Feb 22, 2023 | incore:JoplinCGEmisch | CGE analysis |
-| Salt Lake City Employment | 63dab018c4b5713b9c0c96af | Feb 22, 2023 | incore:JoplinCGEemploy | CGE analysis |
-| Salt Lake City Labor Supply | 63dab074a011a9746c954083 | Feb 22, 2023 | incore:JoplinCGEjobcr | CGE analysis |
-| Salt Lake City Workers commute out | 63dab0a7c4b5713b9c0c96b0 | Feb 22, 2023 | incore:JoplinCGEoutcr | CGE analysis |
-| National vulnerability feature averages | 63d178c2a011a9746c948115 | Feb 22, 2023 | incore:socialVulnerabilityFeatureAverages | CGE analysis |
-| Salt Lake City Social Vulnerability Demographic Factors | 63d17dbd66818b21b8293758 | Feb 22, 2023 | incore:socialVulnerabilityDemFactors | CGE analysis |
+| Name | Dataset ID | Date Created | Data Type                 | Note          |
+|--| ------------------------ |--------------|---------------------------|---------------|
+| Salt Lake County Liquefaction Susceptibility | 62fe9ab685ac6b569e372429 | Feb 22, 2023 | ergo:liquefactionSusceptibilityPolygon | Community app |
+| SLC archetype mapping | 63dbca62a011a9746c95697f | Feb 22, 2023 | incore:archetype-mapping | Community app |
+| Salt Lake City Power Facility - Substations | 63daade962b9d001e6a16a0d | Feb 22, 2023 | incore:epf | Community app |
+| Salt Lake City interdependency dictionary - buildings and substations | 63daae5366818b21b82a07a4 | Feb 22, 2023 | incore:buildingInterdependencyDict | Community app |
+| Salt Lake City 2 regions building to sectors table | 63ffd2c6a36332563d49a88d | Mar 01, 2023 | incore:buildingsToSectors | CGE analysis  |
+| Housing Unit Allocation v2.0.0 data for SLC_UT 2010 | 6349cfb888a94f621d8fd5dd | Feb 22, 2023 | incore:housingUnitAllocation | Community app |
+| SLC Block Group Data | 63c9af5bc4b5713b9c0b559d | Feb 22, 2023 | incore:blockGroupData | Community app |
+| Value loss parameters 4 DS | 60354810e379f22e16560dbd | Feb 22, 2023 | incore:valuLossParam | Community app |
+| Salt Lake City Two Regions Capital Comp | 6408c3ffc4841b26d143e77f | Mar 08, 2023 | incore:CGEbb | CGE analysis  |
+| Salt Lake City Two Region Social Accounting Matrix | 6408c4a8475d895dfc2e5f05 | Mar 08, 2023 | incore:CGEsam | CGE analysis  |
+| Salt Lake City Two Regions MISCH | 6408c50718fd3853fb31d713 | Mar 08, 2023 | incore:CGEmisch | CGE analysis  |
+| Salt Lake City Two Regions Employment | 6408c56cba377224eb7caa9a | Mar 08, 2023 | incore:CGEemploy | CGE analysis  |
+| Salt Lake City Two Regions Labor Supply | 6408c5c7c4841b26d143e786 | Mar 08, 2023 | incore:CGEjobcr | CGE analysis  |
+| Salt Lake City Two Regions Workers commute out | 6408c61d475d895dfc2e5f0d	| Mar 08, 2023 | incore:CGEoutcr | CGE analysis  |
+| National vulnerability feature averages | 63d178c2a011a9746c948115 | Feb 22, 2023 | incore:socialVulnerabilityFeatureAverages | Community app |
+| Salt Lake City Social Vulnerability Demographic Factors | 63d17dbd66818b21b8293758 | Feb 22, 2023 | incore:socialVulnerabilityDemFactors | Community app |
 
 ## Other datasets
 ### Building economy loss
