@@ -68,19 +68,22 @@
 | Address Point Inventory | 60620320be94522d1cb9f7f0 | Feb 26, 2021 | incore:addressPoints | |
 
 ### Other dataset
-| Name | Dataset ID | Date Created | Data Type | Note |
-| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- |
-| Island Roadway inventory | 5f15d04f33b2700c11fc9c4e | Jul 31, 2020 | ergo:roadLinkTopo | |
-| Island Road Distance to Shore Table | 5f189ada53587c306ed478da | Jul 31, 2020 | incore:distanceToShore | |
-| Housing Unit Inventory | 5fc6ab1cd2066956f49e7a03 | Feb 26, 2021 | incore:housingUnitInventory | |
-| Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:blockGroupData | |
-| Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:valuLossParam | |
-| Bridge on Road Link| 606dd68fbe94522d1cc034b2 | April 7, 2021 | incore:bridgeOnRoadLink | |
-| Population dislocation inventory | 60f5ea5d544e944c3cec66dd | July 19, 2021 | incore:popDislocation ||
-| Initial stage probability | 60f5e918544e944c3cec668b | July 19, 2021 | incore:houseRecInitialStageProbability ||
-| Transition probability matrix HHRS | 60f5e2ae544e944c3cec0794 | July 19, 2021 | incore:houseRecTransitionProbMatrix ||
+| Name | Dataset ID              | Date Created   | Data Type | Note                    |
+| ----------------------------------- |-------------------------|----------------| -- |-------------------------|
+| Island Roadway inventory | 5f15d04f33b2700c11fc9c4e | Jul 31, 2020   | ergo:roadLinkTopo |                         |
+| Island Road Distance to Shore Table | 5f189ada53587c306ed478da | Jul 31, 2020   | incore:distanceToShore |                         |
+| Housing Unit Inventory | 5fc6ab1cd2066956f49e7a03 | Feb 26, 2021   | incore:housingUnitInventory |                         |
+| Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021   | incore:blockGroupData |                         |
+| Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021   | incore:valuLossParam |                         |
+| Bridge on Road Link| 606dd68fbe94522d1cc034b2 | April 7, 2021  | incore:bridgeOnRoadLink |                         |
+| Population dislocation inventory | 60f5ea5d544e944c3cec66dd | July 19, 2021  | incore:popDislocation ||
+| Initial stage probability | 60f5e918544e944c3cec668b | July 19, 2021  | incore:houseRecInitialStageProbability ||
+| Transition probability matrix HHRS | 60f5e2ae544e944c3cec0794 | July 19, 2021  | incore:houseRecTransitionProbMatrix ||
 | Census block groups data | 624366c3e894891aafd2b22f | March 29, 2022 | incore:censusBlockGroupsData ||
 | Additional inventory data with assessed damages, areas and building base values | 6243645b5b9e61751de9070f | March 29, 2022 | incore:buildingInventoryArea ||
+| Structural Cost Ratios | 63ff7b2b5c35c0353d5edeeb | March 01, 2023 | incore:structuralCostRatio | Combined loss analysis  |
+| Content Cost Ratios | 63ff7b04a36332563d497cff | March 01, 2023 | incore:contentCostRatio | Combined loss analysis  |
+
 
 ## Lumberton
 ### Building inventory
