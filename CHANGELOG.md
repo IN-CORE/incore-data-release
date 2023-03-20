@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 ###
-- Joplin CGE datasets [#38](https://github.com/IN-CORE/incore-data-release/issues/38)
+- Housing Household Recovery Sequential Analysis datasets [#38](https://github.com/IN-CORE/incore-data-release/issues/38)
 
 ## [3.6.0] - 2022-09-14 
 ### Added
