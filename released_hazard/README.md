@@ -15,4 +15,4 @@
 ## Earthquake
 | Name | Hazard Id | Release Date | Hazard Type |
 | ------- | ---------- |--------------| -- |
-| EQ 7.2 Mar_18_2020 NM  | 628fc3a2be7de109e898d718 | Feb 22, 2023 | Earthquake |
+| EQ 7.2 Mar_18_2020 NM  | 628fc3a2be7de109e898d718 | Mar 15, 2023 | Earthquake |
