@@ -139,6 +139,7 @@ There are total of 213 data types.
 - incore:buildingOccupancyMultiplier
 - incore:buildingValues
 - incore:buildings
+- incore:buildingInterdependencyDict
 - incore:buildingsToEPN
 - incore:buildingsToSectors
 - incore:buildingsToTransportationNetwork

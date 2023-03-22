@@ -158,6 +158,7 @@ are not included in Data service.
 - incore:buildingInventoryArea
 - incore:buildingOccupancyMultiplier
 - incore:buildings
+- incore:buildingInterdependencyDict
 - incore:buildingsToEPN
 - incore:buildingsToSectors
 - incore:buildingsToTransportationNetwork

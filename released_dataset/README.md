@@ -70,19 +70,22 @@
 | Address Point Inventory | 60620320be94522d1cb9f7f0 | Feb 26, 2021 | incore:addressPoints | |
 
 ### Other dataset
-| Name | Dataset ID | Date Created | Data Type | Note |
-| ------------------------------------ | ------------------------ | ------------ | ------------ | ---- |
-| Island Roadway inventory | 5f15d04f33b2700c11fc9c4e | Jul 31, 2020 | ergo:roadLinkTopo | |
-| Island Road Distance to Shore Table | 5f189ada53587c306ed478da | Jul 31, 2020 | incore:distanceToShore | |
-| Housing Unit Inventory | 5fc6ab1cd2066956f49e7a03 | Feb 26, 2021 | incore:housingUnitInventory | |
-| Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:blockGroupData | |
-| Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021 | incore:valuLossParam | |
-| Bridge on Road Link| 606dd68fbe94522d1cc034b2 | April 7, 2021 | incore:bridgeOnRoadLink | |
-| Population dislocation inventory | 60f5ea5d544e944c3cec66dd | July 19, 2021 | incore:popDislocation ||
-| Initial stage probability | 60f5e918544e944c3cec668b | July 19, 2021 | incore:houseRecInitialStageProbability ||
-| Transition probability matrix HHRS | 60f5e2ae544e944c3cec0794 | July 19, 2021 | incore:houseRecTransitionProbMatrix ||
+| Name | Dataset ID              | Date Created   | Data Type | Note                    |
+| ----------------------------------- |-------------------------|----------------| -- |-------------------------|
+| Island Roadway inventory | 5f15d04f33b2700c11fc9c4e | Jul 31, 2020   | ergo:roadLinkTopo |                         |
+| Island Road Distance to Shore Table | 5f189ada53587c306ed478da | Jul 31, 2020   | incore:distanceToShore |                         |
+| Housing Unit Inventory | 5fc6ab1cd2066956f49e7a03 | Feb 26, 2021   | incore:housingUnitInventory |                         |
+| Block Group Data | 603545f2dcda03378087e708 | Feb 26, 2021   | incore:blockGroupData |                         |
+| Value loss parameters 4 DS | 603545f2dcda03378087e708 | Feb 26, 2021   | incore:valuLossParam |                         |
+| Bridge on Road Link| 606dd68fbe94522d1cc034b2 | April 7, 2021  | incore:bridgeOnRoadLink |                         |
+| Population dislocation inventory | 60f5ea5d544e944c3cec66dd | July 19, 2021  | incore:popDislocation ||
+| Initial stage probability | 60f5e918544e944c3cec668b | July 19, 2021  | incore:houseRecInitialStageProbability ||
+| Transition probability matrix HHRS | 60f5e2ae544e944c3cec0794 | July 19, 2021  | incore:houseRecTransitionProbMatrix ||
 | Census block groups data | 624366c3e894891aafd2b22f | March 29, 2022 | incore:censusBlockGroupsData ||
 | Additional inventory data with assessed damages, areas and building base values | 6243645b5b9e61751de9070f | March 29, 2022 | incore:buildingInventoryArea ||
+| Structural Cost Ratios | 63ff7b2b5c35c0353d5edeeb | March 01, 2023 | incore:structuralCostRatio | Combined loss analysis  |
+| Content Cost Ratios | 63ff7b04a36332563d497cff | March 01, 2023 | incore:contentCostRatio | Combined loss analysis  |
+
 
 ## Lumberton
 ### Building inventory
@@ -122,6 +125,32 @@
 | MMSA WDS network - NCI | 631f4bfb923e0e341acf1c96 | September 14, 2022 | incore:waterNetwork | |
 | MMSA EPF-WDS interdependency network - NCI | 631f95f3b4f2e17eff72e2e9 | September 14, 2022 | networkInterdependencyTable | |
 | MMSA WDS-EPF interdependency network - NCI| 631f4bfb923e0e341acf1c96 | September 14, 2022 | networkInterdependencyTable | |
+
+## SLC
+### Building inventory 
+| Name | Dataset ID | Date Created | Data Type                  | Note |
+| ------------------------------------ | ------------------------ |--------------|----------------------------| ---- |
+| Building Inventory| 62fea288f5438e1f8c515ef8 | Mar 15, 2023 | ergo:buildingInventoryVer6 | |
+
+### Other datasets
+| Name                                | Dataset ID | Date Created | Data Type                 | Note           |
+|-------------------------------------| ------------------------ |--------------|---------------------------|----------------|
+| Salt Lake County Liquefaction Susceptibility | 62fe9ab685ac6b569e372429 | Mar 15, 2023 | ergo:liquefactionSusceptibilityPolygon | Community app  |
+| SLC archetype mapping | 63dbca62a011a9746c95697f | Mar 15, 2023 | incore:archetype-mapping | Community app  |
+| Salt Lake City Power Facility - Substations | 63daade962b9d001e6a16a0d | Mar 15, 2023 | incore:epf | Community app  |
+| Salt Lake City interdependency dictionary - buildings and substations | 63daae5366818b21b82a07a4 | Mar 15, 2023 | incore:buildingInterdependencyDict | CGE analysis   |
+| Salt Lake City building to sectors table | 63daaea166818b21b82a07a5 | Mar 15, 2023 | incore:buildingsToSectors | CGE analysis   |
+| Housing Unit Allocation v2.0.0 data for SLC_UT 2010 | 6349cfb888a94f621d8fd5dd | Mar 15, 2023 | incore:housingUnitAllocation | Community app  |
+| SLC Block Group Data | 63c9af5bc4b5713b9c0b559d | Mar 15, 2023 | incore:blockGroupData | Community app  |
+| Value loss parameters 4 DS | 60354810e379f22e16560dbd | Mar 15, 2023 | incore:valuLossParam | Community app  |
+| Salt Lake City Capital Comp | 63daaf5ca011a9746c954081 | Mar 15, 2023 | incore:JoplinCGEbb | CGE analysis   |
+| Salt Lake City Social Accounting Matrix | 63daafa9c4b5713b9c0c96ae | Mar 15, 2023 | incore:JoplinCGEsam | CGE analysis   |
+| Salt Lake City MISCH v2 | 63daafe5a011a9746c954082 | Mar 15, 2023 | incore:JoplinCGEmisch | CGE analysis   |
+| Salt Lake City Employment | 63dab018c4b5713b9c0c96af | Mar 15, 2023 | incore:JoplinCGEemploy | CGE analysis   |
+| Salt Lake City Labor Supply | 63dab074a011a9746c954083 | Mar 15, 2023 | incore:JoplinCGEjobcr | CGE analysis   |
+| Salt Lake City Workers commute out | 63dab0a7c4b5713b9c0c96b0 | Mar 15, 2023 | incore:JoplinCGEoutcr | CGE analysis   |
+| National vulnerability feature averages | 63d178c2a011a9746c948115 | Mar 15, 2023 | incore:socialVulnerabilityFeatureAverages | Community app  |
+| Salt Lake City Social Vulnerability Demographic Factors | 63d17dbd66818b21b8293758 | Mar 15, 2023 | incore:socialVulnerabilityDemFactors | Community apps |
 
 ## Other datasets
 ### Building economy loss
