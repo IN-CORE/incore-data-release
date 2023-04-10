@@ -13,17 +13,17 @@
 | Socio-demographic data | 60fb4241544e944c3cedb507 | Jul 28, 2021 | incore:socioDemograhicData | Residential Building Recovery |
 | Financial resources by household income groups | 60fb411060b3f4124301f95a | Jul 28, 2021 | incore:householdFinancialResources | Residential Building Recovery |
 | Delay impending factors based on REDi framework | 60fb433cd3c92a78c89d21cc | Jul 28, 2021 | incore:buildingRecoveryFactors | Residential Building Recovery |
-| Social Account matrix | 5dd85ae7b9219c06d4da8de4 | Oct 28, 2020 | incore:JoplinCGEsam | CGE analysis |
-| Capital Comp | 5dc1e620b9219c06dd2f473a | Oct 28, 2020 | incore:JoplinCGEbb | CGE analysis |
-| IOUT | 5dc1e6d8b9219c06dd2f475e | Oct 28, 2020 | incore:JoplinCGEiout | CGE analysis |
-| MISC | 5dc1e736b9219c06dd2f4782 | Oct 28, 2020 | incore:JoplinCGEmisc | CGE analysis |
-| MISCH | 5dc1e7b5b9219c06dd2f47a6 | Oct 28, 2020 | incore:JoplinCGEmisch | CGE analysis |
-| Land Capital | 5dc1e810b9219c06dd2f47ca | Oct 28, 2020 | incore:JoplinCGElandcap | CGE analysis |
-| Employment | 5dc1e85ab9219c06dd2f47ee | Oct 28, 2020 | incore:JoplinCGEemploy | CGE analysis |
-| IGTD | 5dc1e895b9219c06dd2f4812 | Oct 28, 2020 | incore:JoplinCGEigtd | CGE analysis |
-| TAUFF  | 5dc1e8eeb9219c06dd2f4836 | Oct 28, 2020 | incore:JoplinCGEtauff | CGE analysis |
-| JOBCR | 5dc1e962b9219c06dd2f487e | Oct 28, 2020 | incore:JoplinCGEjobcr | CGE analysis |
-| OUTCR | 5dc1e9aeb9219c06dd2f48bc | Oct 28, 2020 | incore:JoplinCGEoutcr | CGE analysis |
+| Social Account matrix | 5dd85ae7b9219c06d4da8de4 | Oct 28, 2020 | incore:CGEsam | CGE analysis |
+| Capital Comp | 5dc1e620b9219c06dd2f473a | Oct 28, 2020 | incore:CGEbb | CGE analysis |
+| IOUT | 5dc1e6d8b9219c06dd2f475e | Oct 28, 2020 | incore:CGEiout | CGE analysis |
+| MISC | 5dc1e736b9219c06dd2f4782 | Oct 28, 2020 | incore:CGEmisc | CGE analysis |
+| MISCH | 5dc1e7b5b9219c06dd2f47a6 | Oct 28, 2020 | incore:CGEmisch | CGE analysis |
+| Land Capital | 5dc1e810b9219c06dd2f47ca | Oct 28, 2020 | incore:CGElandcap | CGE analysis |
+| Employment | 5dc1e85ab9219c06dd2f47ee | Oct 28, 2020 | incore:CGEemploy | CGE analysis |
+| IGTD | 5dc1e895b9219c06dd2f4812 | Oct 28, 2020 | incore:CGEigtd | CGE analysis |
+| TAUFF  | 5dc1e8eeb9219c06dd2f4836 | Oct 28, 2020 | incore:CGEtauff | CGE analysis |
+| JOBCR | 5dc1e962b9219c06dd2f487e | Oct 28, 2020 | incore:CGEjobcr | CGE analysis |
+| OUTCR | 5dc1e9aeb9219c06dd2f48bc | Oct 28, 2020 | incore:CGEoutcr | CGE analysis |
 | Capital shocks | 5f21d40d4620b643d78bb4c2 | Oct 28, 2020 | incore:capitalShocks | CGE analysis |
 | Building related data required to evaluate retrofit strategies | 6193ef5b6bee8c1fac5c915e | Dec 15 2021 | incore:multiobjectiveBuildingRelatedData | Multi Objective Retrofit Optimization analysis |
 | Strategy costs data | 6193efa69340a2170d51f495 | Dec 15 2021 | incore:capitalShocks | Multi Objective Retrofit Optimization analysis |
@@ -143,12 +143,12 @@
 | Housing Unit Allocation v2.0.0 data for SLC_UT 2010 | 6349cfb888a94f621d8fd5dd | Mar 15, 2023 | incore:housingUnitAllocation | Community app  |
 | SLC Block Group Data | 63c9af5bc4b5713b9c0b559d | Mar 15, 2023 | incore:blockGroupData | Community app  |
 | Value loss parameters 4 DS | 60354810e379f22e16560dbd | Mar 15, 2023 | incore:valuLossParam | Community app  |
-| Salt Lake City Capital Comp | 63daaf5ca011a9746c954081 | Mar 15, 2023 | incore:JoplinCGEbb | CGE analysis   |
-| Salt Lake City Social Accounting Matrix | 63daafa9c4b5713b9c0c96ae | Mar 15, 2023 | incore:JoplinCGEsam | CGE analysis   |
-| Salt Lake City MISCH v2 | 63daafe5a011a9746c954082 | Mar 15, 2023 | incore:JoplinCGEmisch | CGE analysis   |
-| Salt Lake City Employment | 63dab018c4b5713b9c0c96af | Mar 15, 2023 | incore:JoplinCGEemploy | CGE analysis   |
-| Salt Lake City Labor Supply | 63dab074a011a9746c954083 | Mar 15, 2023 | incore:JoplinCGEjobcr | CGE analysis   |
-| Salt Lake City Workers commute out | 63dab0a7c4b5713b9c0c96b0 | Mar 15, 2023 | incore:JoplinCGEoutcr | CGE analysis   |
+| Salt Lake City Capital Comp | 63daaf5ca011a9746c954081 | Mar 15, 2023 | incore:CGEbb | CGE analysis   |
+| Salt Lake City Social Accounting Matrix | 63daafa9c4b5713b9c0c96ae | Mar 15, 2023 | incore:CGEsam | CGE analysis   |
+| Salt Lake City MISCH v2 | 63daafe5a011a9746c954082 | Mar 15, 2023 | incore:CGEmisch | CGE analysis   |
+| Salt Lake City Employment | 63dab018c4b5713b9c0c96af | Mar 15, 2023 | incore:CGEemploy | CGE analysis   |
+| Salt Lake City Labor Supply | 63dab074a011a9746c954083 | Mar 15, 2023 | incore:CGEjobcr | CGE analysis   |
+| Salt Lake City Workers commute out | 63dab0a7c4b5713b9c0c96b0 | Mar 15, 2023 | incore:CGEoutcr | CGE analysis   |
 | National vulnerability feature averages | 63d178c2a011a9746c948115 | Mar 15, 2023 | incore:socialVulnerabilityFeatureAverages | Community app  |
 | Salt Lake City Social Vulnerability Demographic Factors | 63d17dbd66818b21b8293758 | Mar 15, 2023 | incore:socialVulnerabilityDemFactors | Community apps |
 

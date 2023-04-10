@@ -6,9 +6,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
-###
+### Added
 - SLC CGE datasets [#39](https://github.com/IN-CORE/incore-data-release/issues/39)
 - Housing Household Recovery Sequential Analysis datasets [#38](https://github.com/IN-CORE/incore-data-release/issues/38)
+- Earthquake dastaset for SLC [#43](https://github.com/IN-CORE/incore-data-release/issues/43)
+
+### Changed
+- Datatype JoplinCGE changed to CGE [#44](https://github.com/IN-CORE/incore-data-release/issues/44)
 
 ## [3.6.0] - 2022-09-14 
 ### Added
