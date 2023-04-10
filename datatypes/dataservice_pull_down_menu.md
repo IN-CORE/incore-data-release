@@ -123,7 +123,6 @@ are not included in Data service.
 - ergo:zipCodeArea
 - incore:ADT
 - incore:EPNRecoveryVer1
-- incore:CGE
 - incore:CGEbb
 - incore:CGEemploy
 - incore:CGEigtd

@@ -170,7 +170,6 @@ There are total of 213 data types.
 - incore:housingUnitAllocation
 - incore:housingUnitInventory
 - incore:hurricaneGridSnapshot
-- incore:CGE
 - incore:CGEbb
 - incore:CGEemploy
 - incore:CGEigtd
