@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased]
+## [4.0.0] - 2022-03-15
 ### Added
 - SLC CGE datasets [#39](https://github.com/IN-CORE/incore-data-release/issues/39)
 - Housing Household Recovery Sequential Analysis datasets [#38](https://github.com/IN-CORE/incore-data-release/issues/38)
