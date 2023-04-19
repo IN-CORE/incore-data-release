@@ -126,32 +126,6 @@
 | MMSA EPF-WDS interdependency network - NCI | 631f95f3b4f2e17eff72e2e9 | September 14, 2022 | networkInterdependencyTable | |
 | MMSA WDS-EPF interdependency network - NCI| 631f4bfb923e0e341acf1c96 | September 14, 2022 | networkInterdependencyTable | |
 
-## SLC
-### Building inventory 
-| Name | Dataset ID | Date Created | Data Type                  | Note |
-| ------------------------------------ | ------------------------ |--------------|----------------------------| ---- |
-| Building Inventory| 62fea288f5438e1f8c515ef8 | Mar 15, 2023 | ergo:buildingInventoryVer6 | |
-
-### Other datasets
-| Name                                | Dataset ID | Date Created | Data Type                 | Note           |
-|-------------------------------------| ------------------------ |--------------|---------------------------|----------------|
-| Salt Lake County Liquefaction Susceptibility | 62fe9ab685ac6b569e372429 | Mar 15, 2023 | ergo:liquefactionSusceptibilityPolygon | Community app  |
-| SLC archetype mapping | 63dbca62a011a9746c95697f | Mar 15, 2023 | incore:archetype-mapping | Community app  |
-| Salt Lake City Power Facility - Substations | 63daade962b9d001e6a16a0d | Mar 15, 2023 | incore:epf | Community app  |
-| Salt Lake City interdependency dictionary - buildings and substations | 63daae5366818b21b82a07a4 | Mar 15, 2023 | incore:buildingInterdependencyDict | CGE analysis   |
-| Salt Lake City building to sectors table | 63daaea166818b21b82a07a5 | Mar 15, 2023 | incore:buildingsToSectors | CGE analysis   |
-| Housing Unit Allocation v2.0.0 data for SLC_UT 2010 | 6349cfb888a94f621d8fd5dd | Mar 15, 2023 | incore:housingUnitAllocation | Community app  |
-| SLC Block Group Data | 63c9af5bc4b5713b9c0b559d | Mar 15, 2023 | incore:blockGroupData | Community app  |
-| Value loss parameters 4 DS | 60354810e379f22e16560dbd | Mar 15, 2023 | incore:valuLossParam | Community app  |
-| Salt Lake City Capital Comp | 63daaf5ca011a9746c954081 | Mar 15, 2023 | incore:CGEbb | CGE analysis   |
-| Salt Lake City Social Accounting Matrix | 63daafa9c4b5713b9c0c96ae | Mar 15, 2023 | incore:CGEsam | CGE analysis   |
-| Salt Lake City MISCH v2 | 63daafe5a011a9746c954082 | Mar 15, 2023 | incore:CGEmisch | CGE analysis   |
-| Salt Lake City Employment | 63dab018c4b5713b9c0c96af | Mar 15, 2023 | incore:CGEemploy | CGE analysis   |
-| Salt Lake City Labor Supply | 63dab074a011a9746c954083 | Mar 15, 2023 | incore:CGEjobcr | CGE analysis   |
-| Salt Lake City Workers commute out | 63dab0a7c4b5713b9c0c96b0 | Mar 15, 2023 | incore:CGEoutcr | CGE analysis   |
-| National vulnerability feature averages | 63d178c2a011a9746c948115 | Mar 15, 2023 | incore:socialVulnerabilityFeatureAverages | Community app  |
-| Salt Lake City Social Vulnerability Demographic Factors | 63d17dbd66818b21b8293758 | Mar 15, 2023 | incore:socialVulnerabilityDemFactors | Community apps |
-
 ## Other datasets
 ### Building economy loss
 
