@@ -20,3 +20,5 @@
 | Name | Mapping Id | Release Date  | Hazard Type | Inventory Type    |
 | ------- | ---------- |---------------|---------|-------------------|
 | Building Mean structural repair cost mapping for archetypes 1-19 | 60edfa3efc0f3a7af53a21b5 | July 31, 2021 | Tornado | Building          |
+| Salt Lake Building EQ Fragility Mapping | 6309005ad76c6d0e1f6be081 | Mar 15, 2023  | Earthquake | Building          |
+| Electric Power Facility Fragility Mapping for INA | 5b47be62337d4a37b6197a3a | Mar 15, 2023  | Earthquake | Electric Facility |

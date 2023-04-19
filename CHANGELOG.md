@@ -5,7 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+
+### Added
+- SLC CGE datasets [#39](https://github.com/IN-CORE/incore-data-release/issues/39)
+- Earthquake dastaset for SLC [#43](https://github.com/IN-CORE/incore-data-release/issues/43)
+
 ## [4.0.0] - 2022-03-15
+
 ### Added
 - Housing Household Recovery Sequential Analysis datasets [#38](https://github.com/IN-CORE/incore-data-release/issues/38)
 
@@ -13,6 +20,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Datatype JoplinCGE changed to CGE [#44](https://github.com/IN-CORE/incore-data-release/issues/44)
 
 ## [3.6.0] - 2022-09-14 
+
 ### Added
 - Shelby CGE datasets [#29](https://github.com/IN-CORE/incore-data-release/issues/29)
 - Add network cascading interdependency functionality for MMSA testbed [#35](https://github.com/IN-CORE/incore-data-release/issues/35)
