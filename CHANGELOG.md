@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+### Added
+- Seaside datasets for EPF, water facilities, and pipeline repair cost analyses [#52](https://github.com/IN-CORE/incore-data-release/issues/52)
+
 ## [4.0.0] - 2022-03-15
 ### Added
 - Housing Household Recovery Sequential Analysis datasets [#38](https://github.com/IN-CORE/incore-data-release/issues/38)
