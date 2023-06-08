@@ -37,15 +37,22 @@
 | buildings with building period | 5df40388b9219c06cf8b0c80 | Dec 12, 2019 | ergo:buildingInventoryVer5 | derived from the original, Aug 02, 2019 csv file
 
 ### Other dataset
-| Name | Dataset ID | Date Created | Data Type | Note |
-| ------------------------------------ | ------------------------ | ------------ | ------------ | ------------ |
-| A social accounting matrix | 5f17393633b2700c11feab38 | Oct 28, 2020 | incore:SeasideCGEsam | CGE analysis |
-| A matrix of functioning capital composition | 5f173a8ec98cf43417c8953b | Oct 28, 2020 | incore:SeasideCGEbb | CGE analysis |
-| A commercial sector employment data | 5f173c97c98cf43417c8955d | Oct 28, 2020 | incore:SeasideCGEemploy | CGE analysis |
-| A matrix of workers groups in the economy | 5f173d262fab4d660a8e9f9c | Oct 28, 2020 | incore:SeasideCGEjobcr | CGE analysis |
-| A household table | 5f173d6bc98cf43417c89561 | Oct 28, 2020 | incore:SeasideCGEhhtable | CGE analysis |
-| Random numbers for the change of capital stocks | 5f174211c98cf43417c89565 | Oct 28, 2020 | incore:SeasideCGEsim | CGE analysis |
-| Building states to capital shocks per sector | 5f5fdbc1b7745919a9e2482d | Oct 28, 2020 | incore:SeasideCGEshocks | CGE analysis |
+| Name                                            | Dataset ID                | Date Created  | Data Type                        | Note                                         |
+|-------------------------------------------------|---------------------------|---------------|----------------------------------|----------------------------------------------|
+| A social accounting matrix                      | 5f17393633b2700c11feab38  | Oct 28, 2020  | incore:SeasideCGEsam             | CGE analysis                                 |
+| A matrix of functioning capital composition     | 5f173a8ec98cf43417c8953b  | Oct 28, 2020  | incore:SeasideCGEbb              | CGE analysis                                 |
+| A commercial sector employment data             | 5f173c97c98cf43417c8955d  | Oct 28, 2020  | incore:SeasideCGEemploy          | CGE analysis                                 |
+| A matrix of workers groups in the economy       | 5f173d262fab4d660a8e9f9c  | Oct 28, 2020  | incore:SeasideCGEjobcr           | CGE analysis                                 |
+| A household table                               | 5f173d6bc98cf43417c89561  | Oct 28, 2020  | incore:SeasideCGEhhtable         | CGE analysis                                 |
+| Random numbers for the change of capital stocks | 5f174211c98cf43417c89565  | Oct 28, 2020  | incore:SeasideCGEsim             | CGE analysis                                 |
+| Building states to capital shocks per sector    | 5f5fdbc1b7745919a9e2482d  | Oct 28, 2020  | incore:SeasideCGEshocks          | CGE analysis                                 |
+| Electric power facility replacement cost        | 647dff5b4dd25160127ca192  | June 14, 2023 | incore:replacementCost           | Electric power facility repair cost analysis |
+| Electric power facility damage ratios           | 647dfff54dd25160127ca193  | June 14, 2023 | incore:epfDamageRatios           | Electric power facility repair cost analysis |
+| Water facility replacement cost                 | 647e428c4dd25160127cd874  | June 14, 2023 | incore:replacementCost           | Water facility repair cost analysis          |
+| Water facility damage ratios                    | 647e423d7ae18139d9758607  | June 14, 2023 | incore:waterFacilityDamageRatios | Water facility repair cost analysis          |
+| Water pipeline replacement cost                 | 6480a2787ae18139d975e919  | June 14, 2023 | incore:replacementCost           | Water pipeline repair cost analysis          |
+| Water pipeline damage ratios                    | 6480a2d44dd25160127d2fcc  | June 14, 2023 | incore:pipelineDamageRatios      | Water pipeline repair cost analysis          |
+| Water pipeline inventory                        | 6480a1d9c1a69260b196d9c6  | June 14, 2023 | ergo:buriedPipelineTopology      | Water pipeline repair cost analysis          |
 
 ## Galveston
 ### Building inventory 
