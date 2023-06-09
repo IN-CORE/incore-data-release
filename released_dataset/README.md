@@ -47,8 +47,8 @@
 | Random numbers for the change of capital stocks | 5f174211c98cf43417c89565  | Oct 28, 2020  | incore:SeasideCGEsim             | CGE analysis                                 |
 | Building states to capital shocks per sector    | 5f5fdbc1b7745919a9e2482d  | Oct 28, 2020  | incore:SeasideCGEshocks          | CGE analysis                                 |
 | Electric power facility replacement cost        | 647dff5b4dd25160127ca192  | June 14, 2023 | incore:replacementCost           | Electric power facility repair cost analysis |
-| Electric power facility damage ratios           | 647dfff54dd25160127ca193  | June 14, 2023 | incore:epfDamageRatios           | Electric power facility repair cost analysis |
-| Water facility replacement cost                 | 647e428c4dd25160127cd874  | June 14, 2023 | incore:replacementCost           | Water facility repair cost analysis          |
+| Electric power facility damage ratios           | 6483354b41181d20004efbd7  | June 14, 2023 | incore:epfDamageRatios           | Electric power facility repair cost analysis |
+| Water facility replacement cost                 | 64833bcdd3f39a26a0c8b147  | June 14, 2023 | incore:replacementCost           | Water facility repair cost analysis          |
 | Water facility damage ratios                    | 647e423d7ae18139d9758607  | June 14, 2023 | incore:waterFacilityDamageRatios | Water facility repair cost analysis          |
 | Water pipeline replacement cost                 | 6480a2787ae18139d975e919  | June 14, 2023 | incore:replacementCost           | Water pipeline repair cost analysis          |
 | Water pipeline damage ratios                    | 6480a2d44dd25160127d2fcc  | June 14, 2023 | incore:pipelineDamageRatios      | Water pipeline repair cost analysis          |
