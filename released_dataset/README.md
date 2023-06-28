@@ -133,6 +133,12 @@
 | MMSA EPF-WDS interdependency network - NCI | 631f95f3b4f2e17eff72e2e9 | September 14, 2022 | networkInterdependencyTable | |
 | MMSA WDS-EPF interdependency network - NCI| 631f4bfb923e0e341acf1c96 | September 14, 2022 | networkInterdependencyTable | |
 
+## Mobile
+### Building inventory
+| Name | Dataset ID | Date Created | Data Type | Note |
+| ------------------------------------ | ------------------------ |--------------| ------------ | --- |
+| Building Inventory| 649361d8e435fd233fbbd1b3  | Jun 22, 2023 | ergo:buildingInventoryVer7 | |
+
 ## Other datasets
 ### Building economy loss
 
