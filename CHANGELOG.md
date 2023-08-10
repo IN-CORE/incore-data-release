@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 ### Added
+- INDP dataset [#59](https://github.com/IN-CORE/incore-data-release/issues/59)
 - Mobile building inventory dataset [#57](https://github.com/IN-CORE/incore-data-release/issues/57)
 
 ## [4.2.0] - 2023-06-14
