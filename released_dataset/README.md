@@ -58,11 +58,11 @@
 | Water facility damage ratios                    | 647e423d7ae18139d9758607 | June 14, 2023 | incore:waterFacilityDamageRatios     | Water facility repair cost analysis          |
 | Water pipeline replacement cost                 | 6480a2787ae18139d975e919 | June 14, 2023 | incore:replacementCost               | Water pipeline repair cost analysis          |
 | Water pipeline damage ratios                    | 6480a2d44dd25160127d2fcc | June 14, 2023 | incore:pipelineDamageRatios          | Water pipeline repair cost analysis          |
-| Powerline supply demand info                    | 64ad8b434e01de3af8fea0ba | Aug 16, 2023  | incore:powerLineSupplyDemandInfo     | INDP                                         |
-| EPF supply demand info                          | 64ad9ea54e01de3af8fea0f2 | Aug 16, 2023  | incore:epfSupplyDemandInfo           | INDP                                         |
-| Water facility supply demand info               | 64ad9e704e01de3af8fea0ec | Aug 16, 2023  | incore:waterFacilitySupplyDemandInfo | INDP                                         |
-| Water pipeline supply demand info               | 64ad9e274e01de3af8fea0e5 | Aug 16, 2023  | incore:pipelineSupplyDemandInfo	     | INDP                                         |
-| Interdependency                                 | 61c10104837ac508f9a178ef | Aug 16, 2023  | incore:interdep	                     | INDP                                         |
+| Powerline supply demand info                    | 64adbfdeae71103fb41906e6 | Aug 16, 2023  | incore:powerLineSupplyDemandInfo     | INDP                                         |
+| EPF supply demand info                          | 64adc019e1b74b4e1582110d | Aug 16, 2023  | incore:epfSupplyDemandInfo           | INDP                                         |
+| Water facility supply demand info               | 64adc051ae71103fb41906e7 | Aug 16, 2023  | incore:waterFacilitySupplyDemandInfo | INDP                                         |
+| Water pipeline supply demand info               | 64adc08ee1b74b4e1582110e | Aug 16, 2023  | incore:pipelineSupplyDemandInfo	     | INDP                                         |
+| Interdependency                                 | 64adc0c4ae71103fb41906e8 | Aug 16, 2023  | incore:interdep	                     | INDP                                         |
 | Power Network                                   | 64adbc47c36a346b1f3969f0 | Aug 16, 2023  | incore:epnNetwork                    | INDP                                         |
 | Water Network                                   | 64adbed3e1b74b4e158210ed | Aug 16, 2023  | incore:waterNetwork                  | INDP                                         |
 
