@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [4.3.0] - 2023-08-16
+### Added
+- INDP dataset [#59](https://github.com/IN-CORE/incore-data-release/issues/59)
+- Mobile building inventory dataset [#57](https://github.com/IN-CORE/incore-data-release/issues/57)
+
 ## [4.2.0] - 2023-06-14
 ### Added
 - Seaside datasets for EPF, water facilities, and pipeline repair cost analyses [#52](https://github.com/IN-CORE/incore-data-release/issues/52)
