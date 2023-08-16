@@ -58,6 +58,7 @@
 | Water facility damage ratios                    | 647e423d7ae18139d9758607 | June 14, 2023 | incore:waterFacilityDamageRatios     | Water facility repair cost analysis          |
 | Water pipeline replacement cost                 | 6480a2787ae18139d975e919 | June 14, 2023 | incore:replacementCost               | Water pipeline repair cost analysis          |
 | Water pipeline damage ratios                    | 6480a2d44dd25160127d2fcc | June 14, 2023 | incore:pipelineDamageRatios          | Water pipeline repair cost analysis          |
+| Water pipeline inventory                        | 6480a1d9c1a69260b196d9c6 | June 14, 2023 | ergo:buriedPipelineTopology          | Water pipeline repair cost analysis          |
 | Powerline supply demand info                    | 64adbfdeae71103fb41906e6 | Aug 16, 2023  | incore:powerLineSupplyDemandInfo     | INDP                                         |
 | EPF supply demand info                          | 64adc019e1b74b4e1582110d | Aug 16, 2023  | incore:epfSupplyDemandInfo           | INDP                                         |
 | Water facility supply demand info               | 64adc051ae71103fb41906e7 | Aug 16, 2023  | incore:waterFacilitySupplyDemandInfo | INDP                                         |
