@@ -16,6 +16,7 @@
 | Socio-demographic data                                         | 60fb4241544e944c3cedb507 | Jul 28, 2021 | incore:socioDemograhicData                | Residential Building Recovery                  |
 | Financial resources by household income groups                 | 60fb411060b3f4124301f95a | Jul 28, 2021 | incore:householdFinancialResources        | Residential Building Recovery                  |
 | Delay impending factors based on REDi framework                | 60fb433cd3c92a78c89d21cc | Jul 28, 2021 | incore:buildingRecoveryFactors            | Residential Building Recovery                  |
+| Delay impending factors by damage state for Joplin commercial buildings                | 64ee0bcd553ecf0768e21e55 | Oct 04, 2023 | incore:buildingRecoveryFactors           | Commercial Building Recovery                  |
 | Social Account matrix                                          | 5dd85ae7b9219c06d4da8de4 | Oct 28, 2020 | incore:CGEsam                             | CGE analysis                                   |
 | Capital Comp                                                   | 5dc1e620b9219c06dd2f473a | Oct 28, 2020 | incore:CGEbb                              | CGE analysis                                   |
 | IOUT                                                           | 5dc1e6d8b9219c06dd2f475e | Oct 28, 2020 | incore:CGEiout                            | CGE analysis                                   |
