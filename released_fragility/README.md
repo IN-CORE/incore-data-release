@@ -126,6 +126,7 @@
 | Galveston Hurricane Surge-Wave Fragility for Building Archetype 4 | 6303c9e2d16f760a4d0474e0 | Sept 14, 2022 | Hurricane | Building |
 | Galveston Hurricane Surge-Wave Fragility for Building Archetype 5 | 6303c9e2cef2881193f226bd | Sept 14, 2022 | Hurricane | Building |
 | Galveston Hurricane Surge-Wave Fragility for Building Archetype 20 | 6303c9e28a30d30dac57bc6f | Sept 14, 2022 | Hurricane | Building |
+| Seaside Testbed Regular-Duration Earthquakes RC3 | 65259acf62ba036575da5fcf | Oct 10, 2023 | Earthquake+Tsunami | Building |
 
 ## Mapping
 | Name | Mapping Id | Release Date | Hazard Type | Inventory Type |

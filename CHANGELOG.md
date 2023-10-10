@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [4.6.0] - 2023-10-11
 ### Added
 - Commercial building recovery input datasets[#65](https://github.com/IN-CORE/incore-data-release/issues/65)
+- Example of 3D Earthquake+Tsunami Fragility [#69](https://github.com/IN-CORE/incore-data-release/issues/69)
 
 ## [4.3.0] - 2023-08-16
 ### Added
