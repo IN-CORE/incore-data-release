@@ -136,13 +136,18 @@
 | MMSA Shelby water network       | 62d586120b99e237881b0519 | July 27, 2022 | incore:waterNetwork |      |
 | MMSA EPN network                | 62d85b399701070dbf8c65fe | July 27, 2022 | incore:epnNetwork   |      |
 
+### Other dataset
+
+| Name                                            | Dataset ID               | Date Created | Data Type                 | Note               |
+|-------------------------------------------------|--------------------------|--------------|---------------------------|--------------------|
+| Building to sectors mapping table MMSA Shelby   | 656727dfdc70057a752b6b35 | Jan 12, 2024 | incore:buildingsToSectors | MMSA Shelby County |
+
 ## Shelby
 
 ### Other datasets
 
 | Name                                            | Dataset ID               | Date Created | Data Type                 | Note               |
 |-------------------------------------------------|--------------------------|--------------|---------------------------|--------------------|
-| Building to sectors mapping table MMSA Shelby   | 656727dfdc70057a752b6b35 | Jan 12, 2024 | incore:buildingsToSectors | MMSA Shelby County |
 | A social accounting matrix                      | 630e5f725e639267de334b25 | Sep 14, 2022 | incore:ShelbyCGEsam       | CGE analysis       |
 | A matrix of functioning capital composition     | 630e5fd388470b319562bbec | Sep 14, 2022 | incore:ShelbyCGEbb        | CGE analysis       |
 | A commercial sector employment data             | 630e6013f5438e1f8c51cea9 | Sep 14, 2022 | incore:ShelbyCGEemploy    | CGE analysis       |
