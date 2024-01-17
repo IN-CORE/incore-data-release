@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [unreleased]
+### Added
+- MMSA Shelby county Building to Sectors mapping[#72](https://github.com/IN-CORE/incore-data-release/issues/72)
+
 ## [4.6.0] - 2023-10-11
 ### Added
 - Commercial building recovery input datasets[#65](https://github.com/IN-CORE/incore-data-release/issues/65)
