@@ -12,7 +12,6 @@
 
 | Name                                                           | Dataset ID               | Date Created | Data Type                                 | Note                                           |
 |----------------------------------------------------------------|--------------------------|--------------|-------------------------------------------|------------------------------------------------|
-| Building to sectors table                                      | 656727dfdc70057a752b6b35 | Jan 12, 2024 | incore:buildingsToSectors                 | MMSA Shelby County                             |
 | Building to sectors table                                      | 5f202d674620b643d787a5e7 | Jul 28, 2021 | incore:buildingsToSectors                 |                                                |
 | Socio-demographic data                                         | 60fb4241544e944c3cedb507 | Jul 28, 2021 | incore:socioDemograhicData                | Residential Building Recovery                  |
 | Financial resources by household income groups                 | 60fb411060b3f4124301f95a | Jul 28, 2021 | incore:householdFinancialResources        | Residential Building Recovery                  |
@@ -141,14 +140,15 @@
 
 ### Other datasets
 
-| Name                                            | Dataset ID               | Date Created | Data Type               | Note         |
-|-------------------------------------------------|--------------------------|--------------|-------------------------|--------------|
-| A social accounting matrix                      | 630e5f725e639267de334b25 | Sep 14, 2022 | incore:ShelbyCGEsam     | CGE analysis |
-| A matrix of functioning capital composition     | 630e5fd388470b319562bbec | Sep 14, 2022 | incore:ShelbyCGEbb      | CGE analysis |
-| A commercial sector employment data             | 630e6013f5438e1f8c51cea9 | Sep 14, 2022 | incore:ShelbyCGEemploy  | CGE analysis |
-| A matrix of workers groups in the economy       | 630e604f88470b319562bbed | Sep 14, 2022 | incore:ShelbyCGEjobcr   | CGE analysis |
-| A household table                               | 630e60a9f5438e1f8c51ceaa | Sep 14, 2022 | incore:ShelbyCGEhhtable | CGE analysis |
-| Random numbers for the change of capital stocks | 630e60fd88470b319562bbee | Sep 14, 2022 | incore:ShelbyCGEsim     | CGE analysis |
+| Name                                            | Dataset ID               | Date Created | Data Type                 | Note               |
+|-------------------------------------------------|--------------------------|--------------|---------------------------|--------------------|
+| Building to sectors mapping table MMSA Shelby   | 656727dfdc70057a752b6b35 | Jan 12, 2024 | incore:buildingsToSectors | MMSA Shelby County |
+| A social accounting matrix                      | 630e5f725e639267de334b25 | Sep 14, 2022 | incore:ShelbyCGEsam       | CGE analysis       |
+| A matrix of functioning capital composition     | 630e5fd388470b319562bbec | Sep 14, 2022 | incore:ShelbyCGEbb        | CGE analysis       |
+| A commercial sector employment data             | 630e6013f5438e1f8c51cea9 | Sep 14, 2022 | incore:ShelbyCGEemploy    | CGE analysis       |
+| A matrix of workers groups in the economy       | 630e604f88470b319562bbed | Sep 14, 2022 | incore:ShelbyCGEjobcr     | CGE analysis       |
+| A household table                               | 630e60a9f5438e1f8c51ceaa | Sep 14, 2022 | incore:ShelbyCGEhhtable   | CGE analysis       |
+| Random numbers for the change of capital stocks | 630e60fd88470b319562bbee | Sep 14, 2022 | incore:ShelbyCGEsim       | CGE analysis       |
 
 ### Network cascading interdependency inventory
 
