@@ -17,6 +17,6 @@
 | Water level for natural hurricane Katrina in 2005                            | 6420c6e6d9ae37665ff0d5f2 | Apr 30, 2024 | Hurricane surge      |  
 | Water level for natural hurricane Katrina coupled with NOAA intermediate SLR | 64222491d9ae37665ff0d5f3 | Apr 30, 2024 | Hurricane surge      |
 | Water level for natural hurricane Katrina coupled with NOAA extreme SLR      | 6422253cd9ae37665ff0d5f4 | Apr 30, 2024 | Hurricane surge      |
-| Water level for shifted hurricane Katrina                                    | 642d387bfde0f316c3493530 | Apr 30, 2024 | Hurricane wave/surge |
+| Water level for shifted hurricane Katrina                                    | 642d387bfde0f316c3493530 | Apr 30, 2024 | Hurricane surge      |
 | Water level for shifted hurricane Katrina coupled with NOAA intermediate SLR | 642d38f1fde0f316c3493531 | Apr 30, 2024 | Hurricane surge      |
 | Water level for shifted hurricane Katrina coupled with NOAA extreme SLR      | 642d3c7763601e1e19241468 | Apr 30, 2024 | Hurricane surge      |
