@@ -155,3 +155,6 @@
 | Galveston Hurricane Wind Facilities Mapping For Building | 62fef3a6cef2881193f2261d | Sept 14, 2022 | Hurricane | Building |
 | Galveston Hurricane Flood Facilities Mapping For Building | 62fefd688a30d30dac57bbd7 | Sept 14, 2022 | Hurricane | Building |
 | Galveston Hurricane Surge-Wave Facilities Mapping For Building | 6303e51bd76c6d0e1f6be080 | Sept 14, 2022 | Hurricane | Building |
+| HAZUS 2.1 Earthquake Building Fragility Mapping (NSI Data) | 678a837471e12d6e99461b68 | Feb 11, 2025 | Earthquake | Building |
+| HAZUS 2.1 Tsunami Building Fragility Mapping (NSI Data) | 678a80b4bd1644522caf86cb | Feb 11, 2025 | Tsunami | Building |
+
