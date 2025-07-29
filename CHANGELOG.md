@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [6.1.0] - 2025-07-31
+### Added
+- Seaside sector to building dataset [#85](https://github.com/IN-CORE/incore-data-release/issues/85)
+- Mobile sector to building dataset [#88](https://github.com/IN-CORE/incore-data-release/issues/88)
+
 ## [6.0.0] - 2025-02-20
 ### Added
 - HAZUS 2.1 fragilities and mappings [#80](https://github.com/IN-CORE/incore-data-release/issues/80)
