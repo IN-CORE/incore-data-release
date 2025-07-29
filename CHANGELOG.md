@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 ### Added
 - Seaside sector to building dataset [#85](https://github.com/IN-CORE/incore-data-release/issues/85)
+- Mobile sector to building dataset [#88](https://github.com/IN-CORE/incore-data-release/issues/88)
 
 ## [6.0.0] - 2025-02-20
 ### Added
