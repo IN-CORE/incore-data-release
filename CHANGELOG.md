@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [Unreleased]
+## [6.1.0] - 2025-07-31
 ### Added
 - Seaside sector to building dataset [#85](https://github.com/IN-CORE/incore-data-release/issues/85)
 - Mobile sector to building dataset [#88](https://github.com/IN-CORE/incore-data-release/issues/88)
