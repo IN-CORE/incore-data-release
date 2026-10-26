@@ -39,3 +39,7 @@ The list of released fragility for repairs
 
 ## Released Restoration
 The list of released fragility for restorations
+
+## License
+
+The inventories and released datasets in this repository are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE).
